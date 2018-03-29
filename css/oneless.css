@@ -1,0 +1,54 @@
+@media only screen and (max-width:600px)
+{
+	.mobile-size-100
+	{
+		width:90%;
+	}
+	.padding-left-5
+	{
+		padding-left:0px;
+	}
+	.padding-right-5
+	{
+		padding-right:0px;
+	}
+	.width-65
+	{
+		width:20%;
+	}
+	.columns center img
+	{
+		width:50%;
+	}
+	.width-40
+	{
+		width:30%;
+	}
+}
+.width-65
+{
+	width:50%;
+}
+.contact-inputs
+{
+	width:20%;
+	border:1px solid white;
+	padding:10px;
+	font-size:18px;
+}
+.contact-joinus
+{
+	width:10%;
+}
+@media only screen and (max-width:600px)
+{
+	.contact-inputs
+	{
+		width:90%;
+		margin-top:2%;
+	}
+	.contact-joinus
+	{
+		width:25%;
+	}
+}

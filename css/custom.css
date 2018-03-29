@@ -1,0 +1,304 @@
+#submit_contact2
+{
+	padding-left:75px;
+	padding-right:75px;
+	text-align:center;
+	font-size:1.15rem;
+}
+#nav #navlist li,#sub-menu li
+{
+	-webkit-transition:background 1s;
+	transition:background 1s;
+}
+#nav #navlist li:hover
+{
+	color:white;
+}
+#nav #navlist li:hover,#sub-menu li:hover
+{
+	background:#2190D7;
+}
+.defination-content,.tested-content
+{
+	width:90%;
+	padding:5%;
+	background:;
+	color:#005f60;
+	height:auto;
+}
+.defination-content h1
+{
+	text-align:left;
+	color:#005f60;
+}
+.defination-content p
+{
+	color:#005f60;
+	font-size:1.1rem;
+}
+.defination-content .font-large,.tested-content .font-large
+{
+	font-size:2rem;
+}
+.font-large .text-bold
+{
+	font-weight:bold;
+}
+.text-indent-15
+{
+	text-indent:15px;
+}
+.text-center
+{
+	text-align:center;
+}
+.text-black
+{
+	color:#000;
+}
+.text-normal
+{
+	font-size:1.1rem;
+}
+/*------------------------ For Mobile Compatability of Definition Content Section */
+@media only screen and (max-width:403px)
+{
+	.defination-content
+{
+	width:100%;
+	padding:2%;
+	color:#000;
+	height:auto;
+}
+.defination-content h1
+{
+	text-align:left;
+	color:#005f60;
+}
+.defination-content p
+{
+	color:#005f60;
+	font-size:1.1rem;
+}
+}
+
+/* ------------------------------------ Style COde for Footer Content Section */
+
+.footer-content
+{
+	width:94%;
+	padding:2.9%;
+	height:auto;
+	float:left;
+}
+.footer-logo,.footer-menu,.footer-help,.footer-contact
+{
+	width:24.5%;
+	float:left;
+}
+.footer-content a
+{
+	text-decoration:none;
+	color:#005f60;
+	-webkit-transition:color 1s;
+	transition:color 1s;
+}
+.text-green
+{
+	color:#005f60;
+}
+.footer-menu ul li
+{
+	list-style-type:none;
+	color:#005f60;
+}
+.footer-icons img
+{
+	padding-left:5%;
+}
+.footer-content a:hover
+{
+	color:#2190D7;
+}
+@media only screen and (max-width:600px)
+{
+	.footer-logo,.footer-menu,.footer-help,.footer-contact
+	{
+		width:100%;
+		text-align:center;
+		margin-top:15px;
+	}
+}
+/* --------------------------- This is a section of responsive Social Links----------------- */
+.social-area
+{
+	width:2.5%;
+	padding:5px;
+	opacity:0.3;
+	height:auto;
+	position:fixed;
+	left:0px;
+	top:40%;
+	-webkit-transition:opacity 1s;
+	transition:opacity 1s;
+}
+.social-area:hover
+{
+	opacity:0.9;
+}
+.social-area img
+{
+	padding-top:10px;
+	
+}
+@media only screen and (max-width:500px)
+{
+	.social-area
+{
+	width:7.5%;
+	padding:5px;
+	opacity:0.3;
+	background:#E1E1E6;
+	height:auto;
+	position:fixed;
+	left:0px;
+	top:30%;
+	-webkit-transition:opacity 1s;
+	transition:opacity 1s;
+}
+.social-area:hover
+{
+	opacity:0.9;
+}
+.social-area img
+{
+	padding-top:10px;
+	
+}
+.go-to-top
+{
+	width:2.5%;
+	padding:5px;
+	opacity:1;
+	height:auto;
+	position:fixed;
+	right:7.5%;
+	top:50%;
+	-webkit-transition:opacity 1s;
+	transition:opacity 1s;
+}
+
+}
+.go-to-top
+{
+	width:2.5%;
+	padding:5px;
+	display:none;
+	opacity:1;
+	height:auto;
+	position:fixed;
+	right:5%;
+	top:90%;
+	-webkit-transition:opacity 1s;
+	transition:opacity 1s;
+}
+.text-skyblue:hover
+{
+	color:#2190D7;
+}
+
+/* ------------------ The Style of One less Page.php Starts from here. */
+@media only screen and (max-width:502px)
+{
+	.page-one-logo
+	{
+		float:right;
+	}
+}
+
+.main-div
+{
+	width:99.9%;
+	height:auto;
+}
+.one-page-logo
+{
+	float:right;
+	padding:2%;
+}
+.one-page-heading
+{
+	float:left;
+	width:92%;
+	padding-left:3.5%;
+	padding-right:3.5%;
+	color:#005f60;
+}
+.large-text
+{
+	font-size:2.8rem;
+}
+.one-page-columns
+{
+	float:left;
+	width:93%;
+	height:auto;
+	padding:0.5%;
+	padding-left:3.5%;
+	padding-right:3.5%;
+	color:#005f60;
+}
+.one-page-left-col,.one-page-right-col
+{
+	width:49.9%;
+	float:left;
+	height:auto;
+}
+.one-page-left-col h1,.one-page-right-col h1
+{
+	text-align:center;
+	font-size:2.6rem;
+	color:#005f60;
+}
+.text-pink
+{
+	color:#ef4ca6;
+}
+.one-page-left-col p,.one-page-right-col p
+{
+	padding:2%;
+	padding-left:4%;
+	padding-right:4%;
+}
+
+@media only screen and (max-width:502px)
+{
+	.one-page-left-col,.one-page-right-col
+	{
+		width:100%;
+		margin-top:10px;
+	}
+}
+.one-page-description
+{
+	float:left;
+	width:93%;
+	height:auto;
+	padding:0.5%;
+	padding-left:3.5%;
+	padding-right:3.5%;
+	color:#005f60;
+	text-align:center;
+}
+.text-left
+{
+	text-align:left;
+}
+.overline-small
+{
+	text-overline-width:thick;
+}
+.phone
+{
+	font-size:20px;
+}

@@ -1,0 +1,55 @@
+
+.citizen-banner
+{
+	width:100%;
+}
+p
+{
+	font-family:Microsoft Sans Serif;
+}
+.full-width
+{
+	width:100%;
+	margin-top:11%;
+}
+.citizen-caption
+{
+	position:absolute;
+	top:50%;
+	width:50%;
+	line-height:30px;
+	left:10%;
+}
+@media only screen and (max-width:600px)
+{
+	.citizen-caption
+	{
+		top:40%;
+		line-height:24px;
+		width:80%;
+	}
+}
+.citizen-icon img
+{
+	width:45%;
+}
+.line-height-normal
+{
+	line-height:25px;
+}
+@media only screen and (max-width:600px)
+{
+	.citizen-icon img
+	{
+		padding-left:0px;
+	}
+	.padding-left-20
+	{
+		padding-left:0px;
+		padding:10px;
+	}
+}
+.line-height-35
+{
+	line-height:35px;
+}

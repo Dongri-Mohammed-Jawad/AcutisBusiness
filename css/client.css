@@ -1,0 +1,85 @@
+@media only screen and (max-width:600px)
+{
+	.client-caption
+	{
+		top:180px;
+	}
+	.client-desc
+	{
+		font-size:16px;
+		width:80%;
+	}
+	.padding-left-10
+	{
+		padding-left:0px;
+	}
+	.float-right
+	{
+		float:left;
+	}
+	.width-100
+	{
+		width:100%;
+	}
+	.padding-top-20
+	{
+		padding-top:3px
+	}
+	.mobile-center
+	{
+		float:left;
+		text-align:center;
+	}
+	.mobile-size-70
+	{
+		width:70%;
+	}
+}
+.text-black
+{
+	color:black;
+}
+.float-right
+{
+	float:right;
+}
+.width-full
+{
+	width:100%;
+}
+.float-left
+{
+	float:left;
+}
+.text-center
+{
+	text-align:center;
+}
+.text-left
+{
+	text-align:left;
+}
+.width-70
+{
+	width:70%;
+}
+.width-40
+{
+	width:40%;
+}
+.width-35
+{
+	width:35%;
+}
+.border
+{
+	border:1px solid black;
+}
+.width-30
+{
+	width:30%;
+}
+.no-bold
+{
+	font-weight:normal;
+}

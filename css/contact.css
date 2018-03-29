@@ -1,0 +1,51 @@
+.line-height-30
+{
+	line-height:30px;
+}
+.width-40
+{
+	width:40%;
+}
+@media only screen and (max-width:600px)
+{
+	.padding-4
+	{
+		padding:1%;
+	}
+	.mobile-center
+	{
+		text-align:center;
+	}
+	.mobile-padding-normal
+	{
+		padding:5%;
+	}
+	.mobile-full-image
+	{
+		width:90%;
+	}
+}
+.download-pdf
+{
+	width:15%;
+}
+.background-dark-soap-color
+{
+	background:#63BBB2;
+}
+@media only screen and (max-width:600px)
+{
+	.download-pdf
+	{
+		width:50%;
+		padding:7.5%;
+	}
+	.padding-right-20
+	{
+		padding-right:0px;
+	}
+	.mobile-trail
+	{
+		margin-top:200px;
+	}
+}

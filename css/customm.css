@@ -1,0 +1,67 @@
+.availability
+{
+	color:#005f60;font-size:23px;text-align:center;
+}
+.background-white
+{
+	background:white;
+}
+@media only screen and (max-width:600px)
+{
+	.footer-logo,.footer-menu,.footer-help,.footer-contact
+	{
+		width:100%;
+		text-align:center;
+		margin-top:15px;
+	}
+	.social-area 
+	{
+		width:30px;
+		background:white;
+	}
+	.go-to-top
+	{
+		display:none;
+	}
+	.inner-subheader .phone
+	{
+		margin-left:25%;
+	}
+}
+.facebook-bg
+{
+	background:#3b5998;
+	padding:5px;
+}
+.linkedin-bg
+{
+	background:#0077B5;
+	padding:5px;
+}
+.twitter-bg
+{
+	background:#00aced;
+	padding:5px;
+}
+.youtube-bg
+{
+	background:#FF0000;
+	padding:5px;
+}
+.phone
+{
+	margin-left:10%;
+	font-weight:bold;
+}
+.margin-left-10
+{
+	margin-left:25%;
+}
+
+.menus
+{
+	margin-right:10%;
+	color:white;
+	font-weight:bold;
+}
+
