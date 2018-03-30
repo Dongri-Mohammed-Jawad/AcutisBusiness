@@ -35,9 +35,10 @@
 						<ul class="sub-menu">
 							<li><a href="QuickReferrence.php">Quick Reference</a></li>
 							<li><a href="OneLessThing.php">Our Services</a></li>
+							<li><a href="Client.php">Career Support</a></li>
 						</ul>
 					</li>
-					<li><a href="#">News & Reports</a></li>
+					<li><a href="News-Articles.php">News & Reports</a></li>
 					<li><a href="Acu-Citizen.php">Acu-Citizen</a></li>
 					<li><a href="Career.php">Careers</a></li>
 					<li><a href="Contact-us.php">Contact</a></li>

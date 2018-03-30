@@ -41,7 +41,7 @@
 
 <div class="content-with-image">
 	<div class="left-side">
-		<p class="font-normal-20">State-of-the art  instrumentation and technologies are employed to determine results and then each sample is triple checked  to confirm the acccuracy of our Data. This information is then communicated in our proprietary <span class="special-content">728 Patient Reports.</span></p>
+		<p class="font-normal-20">State-of-the art  instrumentation and technologies are employed to determine results and then each sample is triple checked  to confirm the accuracy of our Data. This information is then communicated in our proprietary <span class="special-content">728 Patient Reports.</span></p>
 	</div>
 	<div class="right-side"> 
 		<img src="content/about_icon_paragraph_1.jpg" class="image-fit" />
@@ -66,7 +66,7 @@
 			<p class="font-normal font-18"><a href="#" class="text-dark-green"> Choose Option 1</a></p>
 		</center>
 		<div class="our-team" >
-			<p class="font-40 text-dark-green padding-left-10 mobile-center width-full"><span class="text-light-green">Our</span> <b>Team</b></p>
+			<p class="font-40 text-dark-green padding-left-10 mobile-center width-100"><span class="text-light-green">Our</span> <b>Team</b></p>
 			<div class="left-side2 manage-img">
 			<br><br>
 				<center><img src="content/about_icon_our_team_2.jpg" class="image-fit" /></center>
@@ -111,7 +111,7 @@
 			</div>
 			<div class="dez-col-50 no-shadow">
 			<center>
-				<p class="special-content font-30 no-border padding-left-10 padding-right-10">
+				<p class="special-content font-30 no-border padding-left-10">
 				Name 2<br>
 				<img src="content/about_arrow.jpg" /><br>
 				<span class="text-dark-green font-normal-20 font-bold">Lab Technicians</span><br>
@@ -133,7 +133,7 @@
 			</div>
 			<div class="dez-col-50 no-shadow">
 			<center>
-				<p class="special-content font-30 no-border padding-left-10 padding-right-10">
+				<p class="special-content font-30 no-border padding-left-10">
 				Name 4<br>
 				<img src="content/about_arrow.jpg" /><br>
 				<span class="text-dark-green font-normal-20 font-bold">Support Staff</span><br>

@@ -1,0 +1,43 @@
+@media only screen and (max-width:600px)
+{
+	.margin-left-10
+	{
+		margin-left:0px;
+	}
+	.padding-2
+	{
+		padding:0%;
+	}
+	.width-full
+	{
+		width:75%;
+	}
+	.mobile-margin-top-2
+	{
+		margin-top:2%;
+	}
+	.mobile-margin-bottom-2
+	{
+		margin-bottom:2%;
+	}
+	.mobile-padding-3
+	{
+		padding:3%;
+	}
+}
+.width-90
+{
+	width:90%;
+}
+.width-auto
+{
+	width:auto;
+}
+a
+{
+	text-decoration:none;
+}
+.background-red
+{
+	background:red;
+}

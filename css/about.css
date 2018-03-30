@@ -1,3 +1,8 @@
+p
+{
+	letter-spacing:1px;
+	word-wrap:no-wrap;
+}
 .text-light-green
 {
 	color:#69b0ae;
@@ -28,7 +33,7 @@
 }
 body
 {
-	font-family:Microsoft Sans Serif;
+	font-family:Roboto Regular;
 }
 .banner-caption
 {
@@ -51,7 +56,7 @@ body
 }
 .font-palatino
 {
-	font-family:palatino linotype;
+	font-family:Roboto Regular;
 }
 .font-bold
 {
@@ -94,7 +99,7 @@ body
 	margin-top:3%;
 	margin-bottom:3%;
 	float:left;
-	font-family:Palatino Linotype;
+	font-family:Roboto Regular;
 }
 .left-side p,.right-side2 p
 {

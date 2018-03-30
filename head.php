@@ -22,4 +22,5 @@
 	<link rel="stylesheet" href="css/client.css" />
 	<link rel="stylesheet" href="css/contact.css" />
 	<link rel="stylesheet" href="css/oneless.css" />
+	<link rel="stylesheet" href="css/news.css" />
 

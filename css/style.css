@@ -1,3 +1,15 @@
+@font-face
+{
+	font-family:Roboto Regular;
+	src:url("../font/RobotoCondensed-Regular.ttf");
+}
+
+
+body p
+{
+	font-family:Roboto Regular;
+}
+
 /*-------------------------------------------------*/
 /* =  General
 /*-------------------------------------------------*/

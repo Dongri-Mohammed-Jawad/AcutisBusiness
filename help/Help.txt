@@ -1,0 +1,6 @@
+Needs:
+1. Client Page Banner Image.
+2. News and Articles Content.
+3. i-Acutis Page in the footer of the Project.
+4. Social Media Links For the Footer Of the Project.
+5. Need " Sign in, Pay Here, Order " Page.

@@ -23,7 +23,7 @@
 	<div class="dez-col-60 no-shadow">
 		<p class="mobile-center font-18 padding-7 line-height-normal text-black">
 		Acutis is a company with its eye on the &quot; evolving Present &quot;, which is our team for the immediate future and the foreseeable long term. Our PhDs, senior scientists and certified medical technologists, utilize robotics, automation, and sophisticated algorithms to turn samples, even of the smallest quantities of specimens, into actionable data. More accurate data helps ensures the highest level of clinical judgement.<br><br>
-		The result : <span class="special-content no-border">better decisions and so better outcomes.</span>
+		The result : <span class="special-content no-border">Better Decisions and so Better Outcomes.</span>
 		</p>
 	</div>
 </div><!-- This is the end of the first Image with its content only. -->
