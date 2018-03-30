@@ -1,3 +1,8 @@
+.text-light-green
+{
+	color:#69b0ae;
+}
+
 .background-transparent
 {
 	opacity:0.75;
@@ -15,6 +20,10 @@
 	.page-banner
 	{
 		margin-top:0px;
+	}
+	.font-36
+	{
+		font-size:29px;
 	}
 }
 body
@@ -53,13 +62,21 @@ body
 	.banner-caption
 	{
 		font-size:1.8rem;
-		top:40%;
+		top:190px;
 		width:90%;
-		padding:5px;
+		padding:1px;
 	}
 	.font-normal
 	{
 		font-size:16px;
+	}
+	.margin-left-10
+	{
+		margin-left:0px;
+	}
+	.padding-right-10
+	{
+		padding-right:0px;
 	}
 }
 .content-with-image
@@ -197,7 +214,7 @@ body
 	.mobile-center
 	{
 		text-align:center;
-		margin-top:15%;
+		margin-top:2%;
 		padding:0px;
 		margin-left:0px;
 	}

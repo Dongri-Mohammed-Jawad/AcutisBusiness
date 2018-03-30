@@ -34,8 +34,8 @@
 <div class="about-banner">
 	<img src="content/about_main_image.jpg" class="page-banner" />
 	<div class="banner-caption">
-		<p class="font-40">About <span class="font-bold">Us</span></p>
-		<p class="text-dark-green font-normal-20"><b>Acutis Diagnostics</b> uses the most advance Technology and applies  the most innovative thinking to medication monitoring and testing  for illictic drugs.</p>
+		<p class="font-40"><span class="text-light-green">About</span> <span class="font-bold">Us</span></p>
+		<p class="text-dark-green font-normal-20 "><b>Acutis Diagnostics</b> uses the most advance Technology and applies  the most innovative thinking to medication monitoring and testing  for illictic drugs.</p>
 	</div>
 </div><!-- End of the Banner with the About US Caption and Description -->
 
@@ -59,14 +59,14 @@
 	<div class="speak-to">
 		<center>
 			<img src="content/about_green_dots.jpg" class="dotted-img" />
-			<p class="text-dark-green font-40">Speak to a <span><b>Toxicologist</b></span></p>
+			<p class="text-dark-green font-40"><span class="text-light-green">Speak to a</span> <span><b>Toxicologist</b></span></p>
 			<p class="text-dark-green font-18">For a Patient's report or other general Support</p>
 			<p class="special-content no-border font-normal font-18"><b>1-844-522-8847</b></p>
 			<img src="content/about_arrow.jpg" />
 			<p class="font-normal font-18"><a href="#" class="text-dark-green"> Choose Option 1</a></p>
 		</center>
 		<div class="our-team" >
-			<p class="margin-left-10 text-dark-green font-40 mobile-center">Our <b>Team</b></p>
+			<p class="font-40 text-dark-green padding-left-10 mobile-center width-full"><span class="text-light-green">Our</span> <b>Team</b></p>
 			<div class="left-side2 manage-img">
 			<br><br>
 				<center><img src="content/about_icon_our_team_2.jpg" class="image-fit" /></center>
@@ -86,14 +86,14 @@
 			</div>
 		</div><!-- End of the below content of our team here -->
 		<div class="dez-col-100 text-dark-green no-shadow">
-			<p class="text-dark-green font-40 mobile-center margin-left-10">Our <span><b>People</b></span></p>
+		<h1 class="font-40 padding-left-10 mobile-center width-full margin-top-5 margin-bottom-5"><span class="text-light-green">Our </span>People</h1>
 			<center>
-			<p class="special-content no-border font-30">Name 1<br>
+			<p class="special-content no-border font-30 padding-left-10 padding-right-10">Name 1<br>
 			<img src="content/about_arrow.jpg" /><br>
-			<span class="text-dark-green font-25">CEO</span>
+			<span class="text-dark-green font-25 font-bold">CEO</span>
 			</p>
 			<div>
-				<p class="font-18 text-center">Please do not contact your physician;s office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
+				<p class="font-18 text-center">Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 			</div>
 			</center>
 		</div>
@@ -101,7 +101,7 @@
 		<div class="dez-col-100 no-shadow">
 			<div class="dez-col-50 no-shadow">
 			<center>
-				<p class="special-content font-30 no-border">
+				<p class="special-content font-30 no-border padding-left-10 padding-right-10">
 				Name 1<br>
 				<img src="content/about_arrow.jpg" /><br>
 				<span class="text-dark-green font-normal-20 font-bold">Scientist</span><br>
@@ -111,7 +111,7 @@
 			</div>
 			<div class="dez-col-50 no-shadow">
 			<center>
-				<p class="special-content font-30 no-border">
+				<p class="special-content font-30 no-border padding-left-10 padding-right-10">
 				Name 2<br>
 				<img src="content/about_arrow.jpg" /><br>
 				<span class="text-dark-green font-normal-20 font-bold">Lab Technicians</span><br>
@@ -123,7 +123,7 @@
 		<div class="dez-col-100 no-shadow">
 			<div class="dez-col-50 no-shadow">
 			<center>
-				<p class="special-content font-30 no-border">
+				<p class="special-content font-30 no-border padding-left-10 padding-right-10">
 				Name 3<br>
 				<img src="content/about_arrow.jpg" /><br>
 				<span class="text-dark-green font-normal-20 font-bold">Sales Specialist</span><br>
@@ -133,7 +133,7 @@
 			</div>
 			<div class="dez-col-50 no-shadow">
 			<center>
-				<p class="special-content font-30 no-border">
+				<p class="special-content font-30 no-border padding-left-10 padding-right-10">
 				Name 4<br>
 				<img src="content/about_arrow.jpg" /><br>
 				<span class="text-dark-green font-normal-20 font-bold">Support Staff</span><br>

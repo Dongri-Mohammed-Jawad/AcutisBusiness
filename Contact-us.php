@@ -18,9 +18,9 @@
 </div><!-- This is the end of the Banner and its content. -->
 
 <div class="dez-col-100 text-dark-green no-shadow">
-	<p class="font-36 padding-left-10">For general & billing inquiries<br><b>Call our Main Line 1-844-522-8847</b></p>
+	<p class="font-36 padding-left-10 mobile-center"><span class="text-light-green">For general & billing inquiries</span><br><b>Call our Main Line 1-844-522-8847</b></p>
 	<div class="dez-col-50 padding-left-10 no-shadow">
-		<p class="font-22 padding-4 padding-left-10 line-height-30 mobile-padding-normal">If you have any questions or comments,<br>
+		<p class="font-22 padding-4 padding-left-10 line-height-30 mobile-padding-normal mobile-center full-width">If you have any questions or comments,<br>
 		please fill out the form, submit, <br>
 		and we will respond Promptly.
 		</p>

@@ -19,8 +19,8 @@
 	.career-caption
 	{
 		font-size:14px;
-		top:180px;
-		left:15%;
+		top:170px;
+		left:5%;
 		width:90%;
 	}
 	.career-desc
@@ -34,6 +34,10 @@
 	.margin-top-40
 	{
 		margin-top:0px;
+	}
+	.mobile-60
+	{
+		width:60%;
 	}
 }
 .width-45
@@ -87,6 +91,13 @@ table tr td
 	width:65%;
 	border:1px solid black;
 	height:150px;
+}
+@media only screen and (max-width:600px)
+{
+	.my-textarea
+	{
+		width:85%;
+	}
 }
 .submit-btn
 {

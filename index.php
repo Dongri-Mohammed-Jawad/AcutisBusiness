@@ -29,7 +29,7 @@
 	<![endif]-->
 </head>
 <body>
-<?php include("header.php"); ?>
+<?php include("new-header.php"); ?>
 <?php include("social-links.php"); ?>
 <div class="container" id="top">
 	 <!-- Slider -->
