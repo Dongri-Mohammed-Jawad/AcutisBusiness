@@ -4,3 +4,14 @@ Needs:
 3. i-Acutis Page in the footer of the Project.
 4. Social Media Links For the Footer Of the Project.
 5. Need " Sign in, Pay Here, Order " Page.
+
+
+#------------------------------------------------------------------------------------------------------------------------------------#
+1. Testing.php Page Developed for Mobile Compatable Successfully.
+2. QuichReferrence.php Page Developed for Mobile Compatable Successfully.
+3. OneLessThing.php Page Developed for Mobile Compatable Successfully.
+4. News-Articles.php Page Developed for Mobile Compatable Successfully.
+5. Acu-Citizen.php Page Developed For Mobile Compatable Successfully.
+6. Client.php Page Developed for Mobile Compatable Successfully.
+7. Contact-us.php Page developed for Mobile Compatable Successfully.
+8. About-us.php Page Developed for Mobile Compatable Successfully.

@@ -25,10 +25,10 @@
 					<br><br>
 				<p class="text-normal">Follow Acutis Diagnostics </p>	
 				<div class="footer-icons">
-					<a href=""><img src="icons/facebook-logo.png" alt="Senior Scientists ,Point of care drug test,Workplace drug test,Pharmacogenetic testing" title="are patients taking illicit drugs" /></a>
-					<a href=""><img src="icons/linkedin-logo.png" title="determine if patients are taking their prescribed controlled medications " alt="drug test" /></a>
-					<a href=""><img src="icons/twitter-logo-silhouette.png" title="substance abuse rehabilitation facilities,laboratory testing services to enable physicians" alt="drug testing in sports,drug testing sports,pharmacogenetic tests" /></a>
-					<a href=""><img src="icons/youtube.png" title="diluted urine,urine specimen collector,tbm management" alt="cut off levels for drug testing,cyclobenzaprine drug test,sports drug testing," /></a>
+					<a href=""><img src="icons/facebook-logo.png" alt="Senior Scientists ,Point of care drug test,Workplace drug test,Pharmacogenetic testing" title="are patients taking illicit drugs" style="width:auto;" /></a>
+					<a href=""><img src="icons/linkedin-logo.png" title="determine if patients are taking their prescribed controlled medications " alt="drug test"  style="width:auto;"/></a>
+					<a href=""><img src="icons/twitter-logo-silhouette.png" title="substance abuse rehabilitation facilities,laboratory testing services to enable physicians" alt="drug testing in sports,drug testing sports,pharmacogenetic tests"  style="width:auto;"/></a>
+					<a href=""><img src="icons/youtube.png" title="diluted urine,urine specimen collector,tbm management" alt="cut off levels for drug testing,cyclobenzaprine drug test,sports drug testing,"  style="width:auto;"/></a>
 				</div>
 		</div><!-- This is the end of the help section in the footer.  -->
 		<div class="footer-contact">

@@ -1,0 +1,167 @@
+
+.banner-section img
+{
+	width:100%;
+}
+.banner-caption
+{
+	position:absolute;
+	top:180px;
+	font-size:36px;
+	padding:5%;
+}
+.banner-caption h1
+{
+	color:#006c6e;
+}
+.banner-description
+{
+	width:60%;
+	line-height:28px;
+	font-size:22px;
+	padding:1%;
+	color:#006c6e;
+	word-spacing:4px;
+}
+.text-light-green
+{
+	color:#69b0ae;
+}
+.text-dark-green
+{
+	color:#006c6e;
+}
+.project-input
+{
+	border:0px solid white;
+	border-bottom:2px solid #000;
+	color:#006c6e;
+	width:80%;
+}
+.project-textarea
+{
+	width:65%;
+	border:1px solid black;
+	height:100px;
+}
+.contact-inputs
+{
+	width:25%;
+	font-size:18px;
+	padding:1%;
+	border:1px solid white;
+}
+.background-soap-color
+{
+	background:#C6E5F2;
+}
+.text-indent-small
+{
+	text-indent:30px;
+}
+
+.lsited-help p
+{
+	background-image:url("../content/careers_arrow_hor.jpg");
+	background-repeat:no-repeat;
+	position:10px;
+}
+
+
+
+
+@media only screen and (min-device-width:360px) and (max-device-width:640px) and (orientation:portrait)
+{
+	.banner-caption
+	{
+		top:215px;
+	}
+	.banner-caption h1
+	{
+		font-size:5rem;
+	}
+	.banner-caption .oneless
+	{
+		font-size:3.5rem;
+	}
+	.heading-normal
+	{
+		font-size:2rem;
+		color:blue;
+	}
+	.banner-description
+	{
+		width:80%;
+		height:240px;
+		overflow:hidden;
+		text-overflow:ellipsis;
+		padding:5%;
+		font-size:2rem;
+		line-height:40px;
+	}
+	.font-24
+	{
+		font-size:2.8rem;
+	}
+	.project-input
+	{
+		font-size:3.5rem;
+		padding:5%;
+		width:90%;
+	}
+	.project-textarea
+	{
+		width:90%;
+		font-size:2.8rem;
+		height:250px;
+	}
+	.mobile-font-4
+	{
+		font-size:4rem;
+	}
+	.contact-section
+	{
+		padding:2.5%;
+		padding-top:10%;
+		padding-bottom:10%;
+	}
+	.width-10
+	{
+		width:10%;
+	}
+	.contact-inputs
+	{
+		width:95%;
+		font-size:3.5rem;
+		margin-top:2.5%;
+		margin-bottom:2.5%;
+	}
+	.project-image-vvsmall
+	{
+		width:30%;
+	}
+	.padding-3,.padding-5
+	{
+		padding:0%;
+	}
+	.float-right
+	{
+		float:left;
+	}
+	.padding-right-50
+	{
+		padding-right:0%;
+	}
+	.mobile-width-40
+	{
+		width:10%;
+	}
+	.mobile-padding-right-40
+	{
+		padding-right:40%;
+	}
+	.text-indent-small
+	{
+		text-indent:0px;
+	}
+}

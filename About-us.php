@@ -1,157 +1,150 @@
-<!doctype html>
-<html lang="en">
+<html>
 <head>
-	<meta charset="utf-8">
-	<title>Acutis Diagnostic | clinical toxicology | OPIOIDS</title>
-	<meta name="keywords" content="clinical toxicology,illicit drugs,pharmacogenetic tests,etg test" >
-	<meta name="Robots" content="index,follow">
-	<meta name="Description" content="Acutis Diagnostic,medication monitoring,Jibreel Siraj,Long Island,The patient took the prescibed medication,Medical abuse,Narcotics,Drug Abuse,Pharmacogenetic test,pharmacogenetic testing,etg alcohol test,urine specimen collector,diluted urine drug test,cyclobenzaprine drug test">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<?php include("head.php"); ?>	
-<script type="text/javascript" src="js/custom.js" ></script>
-	<!--[if lt IE 9]>
-	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
-	<!-- html5.js for IE less than 9 -->
-	<!-- css3-mediaqueries.js for IE less than 9 -->
-	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-	<![endif]-->
-	<!--[if lt IE 9]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-
-	<!--[if lt IE 9]>
- 	<link rel="stylesheet" type="text/css" href="css/ie8-and-down.css" />
-	<![endif]-->
+	<title>Acutis Diagnostics | Career</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
+<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
+	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
+	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/custom.css" />
+	<link rel="stylesheet" href="css/customm.css" />
+	<link rel="stylesheet" href="css/dez-col.css" />
+	<link rel="stylesheet" href="css/dez-margin.css" />
+	<link rel="stylesheet" href="css/dez-padding.css" />
+	<link rel="stylesheet" href="css/helper.css" />
+	<link rel="stylesheet" href="css/dez-fontsize.css" />
+	<link rel="stylesheet" href="css/Dez-Banner.css" />
+	<link rel="stylesheet" href="css/Dez-Client.css" />
 </head>
 <body>
 <?php include("new-header.php"); ?>
-
-<div class="about-banner">
-	<img src="content/about_main_image.jpg" class="page-banner" />
+<div class="banner-section">
+	<img src="content/about_main_image.jpg" />
 	<div class="banner-caption">
-		<p class="font-40"><span class="text-light-green">About</span> <span class="font-bold">Us</span></p>
-		<p class="text-dark-green font-normal-20 "><b>Acutis Diagnostics</b> uses the most advance Technology and applies  the most innovative thinking to medication monitoring and testing  for illictic drugs.</p>
+		<h1>About <span class="text-light-green">Us</span></h1>
+		<p class="banner-description">
+			<b>Acutis Diagnostics</b> uses the most advance Technology and applies  the most innovative thinking to medication monitoring and testing  for illictic drugs.
+		</p>
 	</div>
-</div><!-- End of the Banner with the About US Caption and Description -->
+</div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
 
-<div class="content-with-image">
-	<div class="left-side">
-		<p class="font-normal-20">State-of-the art  instrumentation and technologies are employed to determine results and then each sample is triple checked  to confirm the accuracy of our Data. This information is then communicated in our proprietary <span class="special-content">728 Patient Reports.</span></p>
+<div class="dez-col-100 no-shadow">
+	<div class="dez-col-50 padding-5 no-shadow">
+		<p class="padding-left-10 device-center">
+			State-of-the art  instrumentation and technologies are employed to determine results and then each sample is triple checked  to confirm the accuracy of our Data. This information is then communicated in our proprietary <span class="special-text">728 Patient Reports.</span>
+		</p>
 	</div>
-	<div class="right-side"> 
-		<img src="content/about_icon_paragraph_1.jpg" class="image-fit" />
+	<div class="dez-col-30 padding-5 no-shadow">
+		<center><img src="content/about_icon_paragraph_1.jpg" class="project-image-small padding-right-20" /></center>
 	</div>
-</div><!-- End of the Content and Image Section -->
+</div><!-- this is the end of the first section of content and its image. -->
 
-<div class="content-with-image">
-	<div class="left-side2">
-		<img src="content/about_icon_paragraph_2.jpg" class="image-fit" />
+<div class="dez-col-100 no-shadow">
+	<div class="dez-col-30 padding-5 no-shadow">
+		<center><img src="content/about_icon_paragraph_2.jpg" class="project-image-small padding-left-20" /></center>
 	</div>
-	<div class="right-side2"> 
-		<p class="font-normal-20">Whether taken in hand or read on a screen, our <span class="special-content">728 Patient Reports</span> allow Physicians, Clinicians, Counselors and Others to appraiseat a glance the patient's data. In Possession of the facts, doctor can make the best possible medical decisions.<br><br>Decisions that will produce the best outcomes, in the most-timely fashion.</p>
+	<div class="dez-col-50 padding-5 no-shadow">
+		<p class="device-center ">Whether taken in hand or read on a screen, our <span class="special-text">728 Patient Reports</span> allow Physicians, Clinicians, Counselors and Others to appraise a glance the patient's data. In Possession of the facts, doctor can make the best possible medical decisions.<br><br>Decisions that will produce the best outcomes, in the most-timely fashion.</p>
 	</div>
+</div><!-- This is the end of the second section of image  and its content. -->
+
+<div class="dez-col-100 no-shadow">
+		<center><img src="content/about_green_dots.jpg" class="project-image-small" /></center>
+</div>
+
+<div class="dez-col-100 no-shadow">
+	<center>
+	<p class="font-34"><span class="text-light-green">Speak to a</span> toxicology</p>
+	<p class="text-light-green">For a Patient's report or other general Support</p>
+	<p class="special-text font-26 no-border"><b>1-844-522-8847</b></p>
+	<img src="content/about_arrow.jpg" />
+	<p class="font-20 text-dark-green"><b>Choose Option 1</b></p>
+	</center>
+	<h1 class="padding-left-10 device-center"><span class="text-light-green">Our</span> Team</h1>
 	
-	<div class="speak-to">
-		<center>
-			<img src="content/about_green_dots.jpg" class="dotted-img" />
-			<p class="text-dark-green font-40"><span class="text-light-green">Speak to a</span> <span><b>Toxicologist</b></span></p>
-			<p class="text-dark-green font-18">For a Patient's report or other general Support</p>
-			<p class="special-content no-border font-normal font-18"><b>1-844-522-8847</b></p>
-			<img src="content/about_arrow.jpg" />
-			<p class="font-normal font-18"><a href="#" class="text-dark-green"> Choose Option 1</a></p>
-		</center>
-		<div class="our-team" >
-			<p class="font-40 text-dark-green padding-left-10 mobile-center width-100"><span class="text-light-green">Our</span> <b>Team</b></p>
-			<div class="left-side2 manage-img">
-			<br><br>
-				<center><img src="content/about_icon_our_team_2.jpg" class="image-fit" /></center>
-			</div>
-			<div class="right-side2 manage-width">
-				<p class="text-dark-green font-normal">At Acutis, we combine hard science practiced by our scientists and technologists, with the soft skills possessed by our support staff and sales specialists. We believe that rigorous technological processes and best practices are only fully realized when their benefits are accessible to every member of the team. Toward that end, we have built a company with no gaps. No bureaucracy, No insurmountable hierarchy.<br><br>
-				From our CEO engaged in strategic planning and our senior scientists in the lab, to sale specialists on the road, every employee is fully accountable.<br>Fully accessible. Completely willing to assume responsibility.
-				</p>
-			</div>
-		</div>
-		<div class="dez-col-100 no-shadow">
-			<div class="dez-col-50 margin-left-7 no-shadow">
-				<p class="text-dark-green font-normal">The work we do is serious. If you understand the responsibilities inherent in our business, embrace technology, understand that innovation is an imperative and also believe the soul of a  company is found in the ethics it practices, we invite you to join us.</p>
-			</div>
-			<div class="dez-col-30 margin-left-5 no-shadow">
-				<center><img src="content/about_bt_careers.jpg" class="margin-top-10 margin-bottom-10" /> </center>
-			</div>
-		</div><!-- End of the below content of our team here -->
-		<div class="dez-col-100 text-dark-green no-shadow">
-		<h1 class="font-40 padding-left-10 mobile-center width-full margin-top-5 margin-bottom-5"><span class="text-light-green">Our </span>People</h1>
-			<center>
-			<p class="special-content no-border font-30 padding-left-10 padding-right-10">Name 1<br>
-			<img src="content/about_arrow.jpg" /><br>
-			<span class="text-dark-green font-25 font-bold">CEO</span>
-			</p>
-			<div>
-				<p class="font-18 text-center">Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
-			</div>
-			</center>
-		</div>
-		
-		<div class="dez-col-100 no-shadow">
-			<div class="dez-col-50 no-shadow">
-			<center>
-				<p class="special-content font-30 no-border padding-left-10 padding-right-10">
-				Name 1<br>
-				<img src="content/about_arrow.jpg" /><br>
-				<span class="text-dark-green font-normal-20 font-bold">Scientist</span><br>
-				<span class="text-dark-green font-18">Please do not contact your physician's office with question about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</span>
-				</p>
-			</center>	
-			</div>
-			<div class="dez-col-50 no-shadow">
-			<center>
-				<p class="special-content font-30 no-border padding-left-10">
-				Name 2<br>
-				<img src="content/about_arrow.jpg" /><br>
-				<span class="text-dark-green font-normal-20 font-bold">Lab Technicians</span><br>
-				<span class="text-dark-green font-18">Please do not contact your physician's office with question about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</span>
-				</p>
-			</center>	
-			</div>
-		</div><!-- End of the Name 1 and Name 2 -->
-		<div class="dez-col-100 no-shadow">
-			<div class="dez-col-50 no-shadow">
-			<center>
-				<p class="special-content font-30 no-border padding-left-10 padding-right-10">
-				Name 3<br>
-				<img src="content/about_arrow.jpg" /><br>
-				<span class="text-dark-green font-normal-20 font-bold">Sales Specialist</span><br>
-				<span class="text-dark-green font-18">Please do not contact your physician's office with question about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</span>
-				</p>
-			</center>	
-			</div>
-			<div class="dez-col-50 no-shadow">
-			<center>
-				<p class="special-content font-30 no-border padding-left-10">
-				Name 4<br>
-				<img src="content/about_arrow.jpg" /><br>
-				<span class="text-dark-green font-normal-20 font-bold">Support Staff</span><br>
-				<span class="text-dark-green font-18">Please do not contact your physician's office with question about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</span>
-				</p>
-			</center>	
-			</div>
-		</div><!-- End of the Name 3 and Name 4 -->
-		
+	<div class="dez-col-100 no-shadow">
+	<div class="dez-col-30 padding-5 no-shadow">
+		<center><img src="content/about_icon_our_team_2.jpg" class="project-image-normal padding-left-20 padding-top-20" /></center>
+	</div>
+	<div class="dez-col-50 padding-5 no-shadow">
+		<p class="device-center">At Acutis, we combine hard science practiced by our scientists and technologists, with the soft skills possessed by our support staff and sales specialists. We believe that rigorous technological processes and best practices are only fully realized when their benefits are accessible to every member of the team. Toward that end, we have built a company with no gaps. No bureaucracy, No insurmountable hierarchy.<br><br>
+		From our CEO engaged in strategic planning and our senior scientists in the lab, to sale specialists on the road, every employee is fully accountable.<br>Fully accessible. Completely willing to assume responsibility.</p>
+	</div>
+	</div><!-- This is the end of the third section of image  and its content. -->
+</div><!-- this is the end of the Choose option 1 section. -->
+
+<div class="dez-col-100 no-shadow">
+	<div class="dez-col-70 no-shadow">
+		<p class="device-center padding-left-20 padding-right-10">
+			The work we do is serious. If you understand the responsibilities inherent in our business, embrace technology, understand that innovation is an imperative and also believe the soul of a  company is found in the ethics it practices, we invite you to join us.
+		</p>
+	</div>
+	<div class="dez-col-20 padding-5 no-shadow">
+		<center><img src="content/about_bt_careers.jpg" class="project-image-normal" /></center>
+	</div>
+</div><!-- This is the end of the career button and its content. -->
+
+<div class="dez-col-100 no-shadow">
+	<div class="dez-col-50 padding-left-25 no-shadow">
+	<center>
+		<p class="special-text no-border">Name 1</p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p class="text-light-green">CEO</p>
+		<p class="">Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
+	</center>
+	</div>
+</div>
+<div class="dez-col-100 no-shadow">
+	<div class="dez-col-40 padding-5 no-shadow">
+	<center>
+		<p class="special-text no-border text-bold">Name 1</p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p class="text-light-green">Scientist</p>
+		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
+	</center>
+	</div>
+	<div class="dez-col-40 padding-5 no-shadow">
+	<center>
+		<p class="special-text no-border text-bold">Name 2</p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p class="text-light-green">Lab Technician</p>
+		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
+	</center>
+	</div>
+</div>
+
+<div class="dez-col-100 no-shadow">
+	<div class="dez-col-40 padding-5 no-shadow">
+	<center>
+		<p class="special-text no-border text-bold">Name 3</p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p class="text-light-green">Sales Specialist</p>
+		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
+	</center>
+	</div>
+	<div class="dez-col-40 padding-5 no-shadow">
+	<center>
+		<p class="special-text no-border text-bold">Name 4</p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p class="text-light-green">Support Staff</p>
+		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
+	</center>
+	</div>
+</div>
 		<div class="dez-col-100 background-soap-color no-shadow">
 				<center class="padding-small"><img src="content/about_img_clia.jpg" class="clia" />
 				<img src="content/about_img_NY-HEALTH.jpg" /></center>
 		</div>
-	</div><!-- End of the Dotted Line and Speak to toxicology and remaining all -->
-	
-</div><!-- End of the Content and Image Section and remaining all. -->
+
 <?php include("footer.php"); ?>
 <?php include("Bottom_Js.php"); ?>
 
+</div>
 </body>
 </html>

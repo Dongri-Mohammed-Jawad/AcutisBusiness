@@ -1,30 +1,48 @@
 <html>
 <head>
 	<title>Acutis Diagnostics | Career</title>
-	<?php include("head.php"); ?>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
+<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
+	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
+	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/custom.css" />
+	<link rel="stylesheet" href="css/customm.css" />
+	<link rel="stylesheet" href="css/dez-col.css" />
+	<link rel="stylesheet" href="css/dez-margin.css" />
+	<link rel="stylesheet" href="css/dez-padding.css" />
+	<link rel="stylesheet" href="css/helper.css" />
+	<link rel="stylesheet" href="css/dez-fontsize.css" />
+	<link rel="stylesheet" href="css/Dez-Banner.css" />
+	<link rel="stylesheet" href="css/Dez-Client.css" />
 </head>
 <body>
-	<?php include("new-header.php"); ?>
-	
-<div class="career-banner text-dark-green">
-	<img src="content/careers_main_image.jpg" />
-	<div class="career-caption ">
-		<p class="font-40">Career</p>
-		<p class="font-17 career-desc font-normal line-height-25 text-black">Acutis is a dynamic company, building its internal resources while expanding its territories.<br>
-		We invite industry professionals who abhor standing in place and believe in the evolving present, to join in building this company into the industry leader.<br>
-		Please follow us to learn of opportunities how to become part of our team.</p>
+<?php include("new-header.php"); ?>
+<div class="banner-section">
+	<img src="content/acu_citizen_main_image.jpg" />
+	<div class="banner-caption">
+		<h1>Client <span class="text-light-green">Support</span></h1>
+		<p class="banner-description">
+			While our science and methodologies are among the most advanced in the industry, what distinguishes <b>Acutis</b> is our desire to take our lab to the next level, and from there, create new industry norms.
+		</p>
 	</div>
-</div><!-- This is the end of the Banner and its content. -->
+</div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
 
 <div class="dez-col-100 no-shadow text-dark-green">
-	<p class="font-37 padding-left-10 mobile-center width-full"><span class="text-light-green">We are </span><b>Hiring</b></p>
+	<h1 class="padding-left-10 device-center "><span class="text-light-green">We are </span><b>Hiring</b></h1>
 	<div class="dez-col-35 no-shadow">
-		<center><img src="content/careers_img_1.jpg" class="padding-left-10 width-45" /></center>
+		<center><img src="content/careers_img_1.jpg" class="padding-left-10 padding-top-20 project-image-normal" /></center>
 	</div>
 	
 	<div class="dez-col-65 no-shadow">
 		<div class="dez-col-55 no-shadow listed-help">
-			<p class="font-28 padding-left-15 listed"><b>If you</b><span class="text-light-green"> are</span></p>
+			<p class="padding-left-15 listed"><b>If you</b><span class="text-light-green"> are</span></p>
 			<p class="listed listed-right special-content no-border padding-left-15 font-22">a Scientist</p>
 			<p class="listed listed-right special-content no-border padding-left-15 font-22">a Scientist</p>
 			<p class="listed listed-right special-content no-border padding-left-15 font-22">a Scientist</p>

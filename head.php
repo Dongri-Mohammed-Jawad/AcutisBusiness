@@ -23,4 +23,6 @@
 	<link rel="stylesheet" href="css/contact.css" />
 	<link rel="stylesheet" href="css/oneless.css" />
 	<link rel="stylesheet" href="css/news.css" />
+	<link rel="stylesheet" href="css/Dez-Banner.css" />
+	<link rel="stylesheet" href="css/Dez-Client.css" />
 

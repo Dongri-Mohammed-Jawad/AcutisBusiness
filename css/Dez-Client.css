@@ -1,0 +1,99 @@
+h1
+{
+	font-size:2.5rem;
+	color:#006c6e;
+	padding:1%;
+}
+.project-image-vsmall
+{
+	width:40%;
+}
+.project-image-small
+{
+	width:50%;
+}
+.project-image-vnormal
+{
+	width:60%
+}
+.project-image-normal
+{
+	width:75%;
+}
+.project-image-large
+{
+	width:90%;
+}
+.width-100
+{
+	width:100%;
+}
+p
+{
+	font-size:20px;
+}
+
+.background-red
+{
+	background:red;
+}
+.special-text
+{
+	color:#D40250;
+	border-bottom:2px solid #D40250;
+}
+.no-border
+{
+	border:0px solid black;
+}
+.no-shadow
+{
+	box-shadow:0px 0px 0px #000;
+}
+.float-right
+{
+	float:right;
+}
+.text-bold
+{
+	font-weight:bold;
+}
+
+@media only screen and (min-device-width:360px) and (max-device-width:640px)
+{
+	h1
+	{
+		font-size:3.8rem;
+		padding:3%;
+	}
+	p
+	{
+		font-size:2.8rem;
+		padding:2%;
+	}
+	.padding-left-5,.padding-left-10,.padding-left-15,.padding-left-20,.padding-left-25
+	{
+		padding-left:0%;
+	}
+	.padding-right-5,.padding-right-10,.padding-right-15,.padding-right-20,.padding-right-25
+	{
+		padding-right:0%;
+	}
+	.device-center
+	{
+		width:100%;
+		text-align:center;
+	}
+	.dez-col-40,.dez-col-10,.dez-col-15,.dez-col-20,.dez-col-25,.dez-col-30,.dez-col-35,.dez-col-40,.dez-col-45,.dez-col-50,.dez-col-55,.dez-col-60,.dez-col-65,.dez-col-70,.dez-col-75,.dez-col-80,.dez-col-85,.dez-col-90,.dez-col-95,.dez-col-100
+	{
+		width:98.5%;
+	}
+	.project-image-large,.project-image-normal,.project-image-small,.project-image-vsmall
+	{
+		width:75%;
+	}
+	.mobile-font-5
+	{
+		font-size:5rem;
+	}
+}

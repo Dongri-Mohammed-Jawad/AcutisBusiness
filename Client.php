@@ -1,104 +1,123 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Client Support.</title>
-	<?php include("head.php"); ?>
+	<title>Acutis Diagnostics | Acu-Citizen </title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
+<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
+	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
+	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/custom.css" />
+	<link rel="stylesheet" href="css/customm.css" />
+	<link rel="stylesheet" href="css/dez-col.css" />
+	<link rel="stylesheet" href="css/dez-margin.css" />
+	<link rel="stylesheet" href="css/dez-padding.css" />
+	<link rel="stylesheet" href="css/helper.css" />
+	<link rel="stylesheet" href="css/dez-fontsize.css" />
+	<link rel="stylesheet" href="css/Dez-Banner.css" />
+	<link rel="stylesheet" href="css/Dez-Client.css" />
+
 </head>
 <body>
 <?php include("new-header.php"); ?>
-<div class="career-banner text-dark-green">
-	<img src="content/careers_main_image.jpg" />
-	<div class="career-caption client-caption">
-		<p class="font-40 "><b>Career</b> Support</p>
-		<p class="client-desc font-normal-20 line-height-25">
-			While our science and methodologies are among  the most advanced in the industry,
-			what distinguishes <b>Acutis</b> is our  desire to take  our lab to the next level,
-			and from there, create new industry norms.
+<div class="banner-section">
+	<img src="content/acu_citizen_main_image.jpg" />
+	<div class="banner-caption">
+		<h1>Client <span class="text-light-green">Support</span></h1>
+		<p class="banner-description">
+			While our science and methodologies are among the most advanced in the industry, what distinguishes <b>Acutis</b> is our desire to take our lab to the next level, and from there, create new industry norms.
 		</p>
 	</div>
-</div><!-- This is the end of the Banner and its content. -->
+</div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
 
-<div class="dez-col-100 text-dark-green no-shadow">
-	<p class="font-38 padding-left-10"><b>Click, act</b> & go</p>
-	<div class="dez-col-50 padding-left-20 no-shadow">
-		<p class="font-17 line-height-normal">Authoritative. Advanced. Accurate. Fully committed.<br>
-		The individuals and teams working for you possess a <span class="special-content no-border">real-world, real-time knowledge</span> of physicians` and clinicians` practices. We feel obliged to offer the most attentive and professional services in the industry - and will deliver them.
+<div class="dez-col-100 no-shadow">
+	<h1 class="padding-left-10 device-center">Click, Act <span class="text-light-green">& Go</span></h1>
+	<p class="padding-left-20 device-center dez-col-60 no-shadow">
+	Authoritative. Advanced. Accurate. Fully committed.<br>
+	The individuals and teams working for you possess a <span class="special-text no-border">real-world, real-time knowledge</span> of physicians` and clinicians` practices. We feel obliged to offer the most attentive and professional services in the industry - and will deliver them.
+	</p>
+</div><!-- This is the end of the click, act and go and its content. -->
+
+<div class="dez-col-100 no-shadow">
+	<div class="dez-col-35 padding-5 no-shadow">
+		<center><img src="content/client_i_acutis.jpg" class="project-image-normal" /></center>
+	</div>
+	<div class="dez-col-45 padding-5 no-shadow">
+		<h1 class="device-center"><span class="text-light-green">i-</span>Acutis</h1>
+		<center><img src="content/about_green_dots.jpg" class="project-image-large" /></center>
+		<h2 class="text-dark-green device-center">Order new tests and make inquiries.</h2><br>
+		<p>Use this Password - protected page to log into your account and access your Patient's Information.</p>
+		<center><img src="content/homepage_bt_sign_in.jpg" class="project-image-small" /></center>
+	</div>
+</div><!-- This is the end of the first section of image and content. -->
+
+<div class="dez-col-100 no-shadow">
+	<div class="dez-col-45 padding-5 no-shadow">
+		<h2 class="text-dark-green float-right mobile-font-4 device-center"><span class="text-light-green">Make a </span>Payment.</h2>
+		<center><img src="content/about_green_dots.jpg" class="project-image-large float-right" /></center>
+		<p class="text-dark-green device-center float-right">If you are a patient, pay your bill here.</p>
+		<center><img src="content/homepage_bt_pay_here.jpg" class="project-image-small float-right" /></center>
+		<p class="device-center float-right padding-left-10">
+			If you receive a check from your insurance company, simply endorse it and mail it to us.<br>
+			Should you receive an invoice from Acutis, there is no need to contact your doctor, please feel free to contact us directly.
 		</p>
-	</div>
-</div><!-- This is the end of the click act and go section only -->
-
-<div class="dez-col-100 text-dark-green no-shadow">
-	<div class="dez-col-50 no-shadow">
-		<center><img src="content/about_icon_paragraph_2.jpg" class="padding-left-20" /></center>
-	</div>
-	<div class="dez-col-50 no-shadow">
-		<p class="font-30 mobile-center">i-<b>Acutis</b></p>
-		<img src="content/about_green_dots.jpg" class="width-100" />
-		<p class="font-26 mobile-center">Order new tests and make inquiries.</p>
-		<p class="font-20 text-black width-full float-left">Use this Password - protected page to log into your account and access your Patient's Information.</p>
-		<img src="content/homepage_bt_sign_in.jpg"  />
-	</div>
-</div><!-- this is the end of the signup image and its content -->
-
-<div class="dez-col-100 text-dark-green no-shadow">
-	<div class="dez-col-50 no-shadow">
-		<p class="font-30 float-right mobile-center padding-right-2">Make <b>a Payment </b></p>
-		<img src="content/about_green_dots.jpg" class="float-right width-100" />
-		<p class="font-18 float-right font-bold padding-right-2">If You are a patient, pay your bill here.</p>
-		<div class="float-right width-full padding-1">
-			<img src="content/homepage_bt_pay_here.jpg" class="float-right" />
-		</div>
-		<p class="font-19 line-height-normal text-left float-left padding-2">If you receive a check from your insurance company, simply endorse it and mail it to us.<br>
-		Should you receive an invoice from Acutis, there is no need to contact your doctor, please feel free to contact us directly.</p>
-		<center><img src="content/about_arrow.jpg" class="float-left padding-left-10" /></center>
-		<p class="font-26 font-bold float-left text-left special-content no-border line-height-normal">1-347-662-2450<br>
-		<span class="font-18 special-content no-border float-left line-height-normal">Available Monday - Friday 9 am to 5 pm</span>
+		<center><img src="content/careers_arrow_vert.jpg" class="float-right padding-right-50 mobile-width-40 mobile-padding-right-40" /></center>
+		<h2 class="special-text font-30 device-center float-right width-100 no-border mobile-font-4"><center>1-347-662-2450</center></h2>
+		<h2 class="special-text font-20 device-center float-right width-100 no-border mobile-font-4"><center>Available Monday - Friday 9 am to 5 pm</center></h2>
+		<p class="float-right device-center text-light-green">
+			If you are Physician or Practice, Pay your bill here
 		</p>
-		<p class="font-20 float-right padding-right-5">If you are Physician or Practice, Pay your bill here<br><br><img src="content/homepage_bt_pay_here.jpg" class="float-right" /></p>
+		<center><img src="content/homepage_bt_pay_here.jpg" class="project-image-small float-right" /></center>
 	</div>
-	
-	<div class="dez-col-50 no-shadow">
-			<center><img src="content/client_make_payment.jpg" class="padding-top-20 width-70" /></center>
+	<div class="dez-col-35 padding-5 no-shadow">
+		<center><img src="content/client_make_payment.jpg" class="project-image-normal" /></center>
 	</div>
-</div><!-- This is the end of the Make a Payment Section only. -->
+</div><!-- This is the end of the second section of content with image. -->
 
 <div class="dez-col-100 text-dark-green no-shadow">
 	<div class="dez-col-50 no-shadow">
-		<img src="content/client_supplies_materials.jpg" class="float-right mobile-size-70" />
+		<center><img src="content/client_supplies_materials.jpg" class="project-image-normal" /></center>
 	</div>
 	<div class="dez-col-50 no-shadow">
-		<p class="font-36 mobile-center">Supplies & <b>Materials</b></p>
-		<img src="content/about_green_dots.jpg" class="width-100"/>
-		<p class="font-20 font-bold">Order Your Supplies and Materials Here</p>
-		<p class="font-18 padding-3 line-height-normal">
+		<h1 class="device-center">Supplies & <b>Materials</b></h1>
+		<center><img src="content/about_green_dots.jpg" class="project-image-large"/></center>
+		<p class="device-center">Order Your Supplies and Materials Here</p>
+		<p class="padding-3 line-height-normal device-center">
 		You Must Provide :
-		<br>. Practice name
-		<br>. Primary Physicians` Name
-		<br>. Shipping Address
-		<br>. Shipping Company ( FedEx or UPS )
+		<br><span class="text-indent-small">. Practice name</span>
+		<br><span class="text-indent-small">. Primary Physicians` Name</span>
+		<br><span class="text-indent-small">. Shipping Address</span>
+		<br><span class="text-indent-small">. Shipping Company ( FedEx or UPS )</span>
 		</p>
 		<div class="dez-col-100 no-shadow">
-			<div class="width-35 float-left no-border">
-				<p class="font-18 float-right font-bold mobile-center">FedEx Pick-Ups :<p>
-				<p><span class="float-right font-14 mobile-center no-bold">allow a three hours time frame</span>
+			<div class="dez-col-35 float-left no-shadow">
+				<center><p class="device-center mobile-font-4">FedEx Pick-Ups :<br>
+				<span class="device-center">allow a three hours time frame</span>
 				</p>
+				</center>
 			</div>
-			<div class="width-30 float-left no-border">
+			<div class="dez-col-35 float-left padding-top-5 no-shadow">
 			<center>
-				<img src="content/client_fedex_icon.jpg" class="width-40" /> <img src="content/client_ups_icon.jpg" class="width-40" />
+				<img src="content/client_fedex_icon.jpg" class="project-image-vsmall" /> <img src="content/client_ups_icon.jpg" class="project-image-vsmall" />
 			</center>	
 			</div>
-			<div class="width-35 float-left no-border">
-				<p class="font-18 font-bold mobile-center">UPS pick-ups :</p>
-				<p><span class="font-14 float-left no-bold">allow an hour time frame</span>
+			<div class="dez-col-30 float-left no-shadow">
+				<center>
+				<p class="device-center mobile-font-4">UPS pick-ups :<br>
+				<span class="device-center">allow an hour time frame</span>
 				</p>
+				</center>
 			</div>
 		</div><!-- This is the 100% end of the FedEx and UPs Image and content -->
-		<img src="content/homepage_bt_pay_order.jpg" class="padding-top-2" />
+		<center><img src="content/homepage_bt_pay_order.jpg" class="padding-top-2 project-image-small" /></center>
 	</div><!-- This is the end of the right side content of the Supplies & Materials --> 
 </div><!-- This is the end of the Supplies and Materials Here. -->
 
+
 <?php include("footer.php"); ?>
 <?php include("Bottom_Js.php"); ?>
-
-</body>
-</html>

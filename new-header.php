@@ -8,10 +8,10 @@
 
 				<div class="subheader2 menus">
 					<ul>
-						<li><a href="index.php" class="text-skyblue">Home</a></li>
-						<li><a href="#">Login</a></li>
-						<li><a href="#">e-Newsletter </a></li>
-						<li><a href="#">Blog</a></li>
+						<li><a href="Client.php" class="text-skyblue">Client Support</a></li>
+						<li><a href="#">i-Acutis</a></li>
+						<li><a href="OneLessThing.php">Orders Supplies & materials </a></li>
+						<li><a href="OneLessThing.php">Make a Payment</a></li>
 					</ul>				
 				</div>
 			</div>
