@@ -25,7 +25,7 @@
 <body>
 <?php include("new-header.php"); ?>
 <div class="device-hide"><?php include("social-links.php"); ?></div>
-<div class="container" id="top">
+<div class="container">
 	<div class="slider" class="adjust">
 		<div class="flexslider">
 		  <ul class="slides">

@@ -79,14 +79,16 @@
 	-webkit-transition:opacity 1s;
 	transition:opacity 1s;
 }
-
-
+.display-none
+{
+	display:none;
+}
 
 @media only screen and (min-device-width:360px) and (max-device-width:640px) and (orientation:portrait)
 {
 	.banner-caption
 	{
-		top:215px;
+		top:375px;
 	}
 	.banner-caption h1
 	{
@@ -272,4 +274,33 @@
 	{
 		margin-top:10%;
 	}
+	.desktop
+	{
+		display:none;
+	}
+	.mobile-version
+	{
+		display:inline;
+		margin-bottom:2%;
+	}
+	.mobile-version select
+	{
+		font-size:4rem;
+		text-align:center;
+		padding:2%;
+		font-weight:bold;
+		padding-left:40%;
+		border:1px solid black;
+	}
+	.mobile-version select option
+	{
+		font-size:1rem;
+		width:100%;
+		padding-left:0px;
+	}
+	.mobile-logo a img
+	{
+		width:600px;
+	}
+	
 }

@@ -8,10 +8,10 @@
 
 				<div class="subheader2 menus">
 					<ul>
-						<li><a href="Client.php" class="text-skyblue">Client Support</a></li>
-						<li><a href="#">i-Acutis</a></li>
-						<li><a href="OneLessThing.php">Orders Supplies & materials </a></li>
-						<li><a href="OneLessThing.php">Make a Payment</a></li>
+						<li><a href="Client.php" class="text-skyblue mobile-font-2">Client Support</a></li>
+						<li><a href="#" class="mobile-font-2">i-Acutis</a></li>
+						<li><a href="OneLessThing.php" class="mobile-font-2">Orders Supplies & materials </a></li>
+						<li><a href="OneLessThing.php" class="mobile-font-2">Make a Payment</a></li>
 					</ul>				
 				</div>
 			</div>
@@ -20,12 +20,35 @@
 		<div class="row2 background-white">
 		<div class="upper-header">
 			
-			<div class="logo">
+			<div class="logo mobile-logo device-center">
 				<a href="index.php"><img class="margin-left-10" src="images/acutis.png" alt="Acutis Diagnostic,drug testing sports,drug testing in sports,sports drug testing" title="etg alcohol test,diluted urine drug test,toxicology labs,tbm management,ddi testing"></a>
 			</div>					
+	<!--------------------------------------- This is the new header for device Responsiveness. -->
+	<!--------------------------------------- This is the new header for device Responsiveness. -->
+
+			<div class="dez-col-50 mobile-version no-shadow display-none device-center">
+				<center>
+				<select class="dez-col-90" onchange="location = this.options[this.selectedIndex].value;">
+					<option>Go To...</option>
+					<option value="index.php">HOME</option>
+					<option value="About-us.php">About Us</option>
+					<option value="Testing.php">Testing</option>
+					<option value="QuickReferrence.php">Quick Reference</option>
+					<option value="OneLessThing.php">Our Services</option>
+					<option value="Client.php">Client Support</option>
+					<option value="News-Articles.php">News & Articles</option>
+					<option value="Acu-Citizen.php">Acu-Citizen</option>
+					<option value="Career.php">Careers</option>
+					<option value="Contact-us.php">Contact Us</option>
+				</select>
+				</center>
+			</div>
+
+	<!--------------------------------------- This is the new header for device Responsiveness. -->
+	<!--------------------------------------- This is the new header for device Responsiveness. -->
 			
 			<!-- Navigation -->
-			<nav id="nav">
+			<nav id="nav" class="desktop">
 				<ul id="navlist" class="sf-menu clearfix">
 					<li class="current"><a href="index.php">Home</a>
 						
@@ -38,7 +61,7 @@
 							<li><a href="Client.php">Client Support</a></li>
 						</ul>
 					</li>
-					<li><a href="News-Articles.php">News & Reports</a></li>
+					<li><a href="News-Articles.php">News & Articles</a></li>
 					<li><a href="Acu-Citizen.php">Acu-Citizen</a></li>
 					<li><a href="Career.php">Careers</a></li>
 					<li><a href="Contact-us.php">Contact</a></li>
@@ -50,7 +73,6 @@
        <!-- End Upper Header -->
        </div>
        <!-- End Row2 -->
-
 	</header>
 	<!-- End Header -->
 	 
