@@ -24,6 +24,7 @@
 </head>
 <body>
 <?php include("new-header.php"); ?>
+<div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
 	<img src="content/about_main_image.jpg" />
 	<div class="banner-caption">
@@ -62,9 +63,9 @@
 	<center>
 	<p class="font-34"><span class="text-light-green">Speak to a</span> toxicology</p>
 	<p class="text-light-green">For a Patient's report or other general Support</p>
-	<p class="special-text font-26 no-border"><b>1-844-522-8847</b></p>
-	<img src="content/about_arrow.jpg" />
-	<p class="font-20 text-dark-green"><b>Choose Option 1</b></p>
+	<p class="special-text no-border"><b>1-844-522-8847</b></p>
+	<img src="content/about_arrow.jpg" class="mobile-width-auto" />
+	<p class="text-dark-green"><b>Choose Option 1</b></p>
 	</center>
 	<h1 class="padding-left-10 device-center"><span class="text-light-green">Our</span> Team</h1>
 	
@@ -94,7 +95,7 @@
 	<div class="dez-col-50 padding-left-25 no-shadow">
 	<center>
 		<p class="special-text no-border">Name 1</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
 		<p class="text-light-green">CEO</p>
 		<p class="">Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
@@ -104,7 +105,7 @@
 	<div class="dez-col-40 padding-5 no-shadow">
 	<center>
 		<p class="special-text no-border text-bold">Name 1</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
 		<p class="text-light-green">Scientist</p>
 		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
@@ -112,7 +113,7 @@
 	<div class="dez-col-40 padding-5 no-shadow">
 	<center>
 		<p class="special-text no-border text-bold">Name 2</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
 		<p class="text-light-green">Lab Technician</p>
 		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
@@ -123,7 +124,7 @@
 	<div class="dez-col-40 padding-5 no-shadow">
 	<center>
 		<p class="special-text no-border text-bold">Name 3</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
 		<p class="text-light-green">Sales Specialist</p>
 		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
@@ -131,7 +132,7 @@
 	<div class="dez-col-40 padding-5 no-shadow">
 	<center>
 		<p class="special-text no-border text-bold">Name 4</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
+		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
 		<p class="text-light-green">Support Staff</p>
 		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>

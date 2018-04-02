@@ -24,6 +24,7 @@
 </head>
 <body>
 <?php include("new-header.php"); ?>
+<div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
 	<img src="content/testing_main_image.jpg" />
 	<div class="banner-caption">

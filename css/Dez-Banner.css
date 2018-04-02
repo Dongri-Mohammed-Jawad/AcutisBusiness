@@ -66,7 +66,19 @@
 	background-repeat:no-repeat;
 	position:10px;
 }
-
+.go-to-top
+{
+	width:2.5%;
+	padding:5px;
+	display:none;
+	opacity:1;
+	height:auto;
+	position:fixed;
+	right:5%;
+	top:90%;
+	-webkit-transition:opacity 1s;
+	transition:opacity 1s;
+}
 
 
 
@@ -119,6 +131,10 @@
 	{
 		font-size:4rem;
 	}
+	.mobile-font-5
+	{
+		font-size:5rem;
+	}
 	.contact-section
 	{
 		padding:2.5%;
@@ -163,5 +179,97 @@
 	.text-indent-small
 	{
 		text-indent:0px;
+	}
+	.mobile-width-auto
+	{
+		width:10%;
+	}
+	.mobile-width-auto40
+	{
+		width:40%;
+	}
+	.mobile-width-auto50
+	{
+		width:50%;
+	}
+	.mobile-width-auto30
+	{
+		width:30%;
+	}
+	.mobile-width-auto20
+	{
+		width:20%;
+	}
+	.mobile-width-auto10
+	{
+		width:10%;
+	}
+	.inner-form .inputs input, #submit_contact2
+	{
+		width:700px;
+		font-size:4rem;
+		padding:5%;
+		border:1px solid black;
+	}
+	.features-items
+	{
+		width:100%;
+		padding-top:5%;
+		padding-bottom:5%;
+	}
+	.features-items img
+	{
+		width:300px;
+	}
+	.features-items h4
+	{
+		font-size:4.5rem;
+	}
+	.features-items p
+	{
+		font-size:3.5rem;
+	}
+	.mobile-font-normal
+	{
+		font-size:7rem;
+	}
+	.margin-top-40
+	{
+		margin-top:0%;
+	}
+	.listed
+	{
+		list-style-type:none;
+		background:url("../content/careers_arrow_hor.jpg");
+		background-repeat:no-repeat;
+		background-position:25% 60%;
+		float:left;
+		font-size:4rem;
+		
+	}
+	.listed-right
+	{
+		background-position:30% 60%;
+	}
+	.device-hide
+	{
+		display:none;
+	}
+	.go-to-top
+	{
+		display:none;
+	}
+	.footer-content,.footer-logo,.footer-menu,.footer-help,.footer-contact
+	{
+		width:94%;
+		text-align:center;
+	}
+	.mobile-font-2
+	{
+		font-size:2rem;
+	}
+	.footer-menu,.footer-help,.footer-contact
+	{
+		margin-top:10%;
 	}
 }

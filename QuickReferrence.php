@@ -24,8 +24,9 @@
 </head>
 <body>
 <?php include("new-header.php"); ?>
+<div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
-	<img src="content/contact_main-image.jpg" />
+	<img src="content/quick_refererence_main_image.jpg" />
 	<div class="banner-caption">
 		<h1>Quick <span class="text-light-green">Reference</span></h1>
 		<p class="banner-description">

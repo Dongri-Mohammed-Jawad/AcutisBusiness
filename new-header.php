@@ -35,7 +35,7 @@
 						<ul class="sub-menu">
 							<li><a href="QuickReferrence.php">Quick Reference</a></li>
 							<li><a href="OneLessThing.php">Our Services</a></li>
-							<li><a href="Client.php">Career Support</a></li>
+							<li><a href="Client.php">Client Support</a></li>
 						</ul>
 					</li>
 					<li><a href="News-Articles.php">News & Reports</a></li>

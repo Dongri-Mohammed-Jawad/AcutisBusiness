@@ -5,5 +5,5 @@
 	<a href="#"><img src="icons/youtube.png" class="youtube-bg" /></a>
 </div>
 <div class="go-to-top">
-	<a href="#top"><img class="contact-option scrollTop" src="icons/top.png" /></a>
+	<a href="#top"><img class="contact-option scrollTop" src="content/top.png" /></a>
 </div>

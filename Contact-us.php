@@ -25,6 +25,7 @@
 </head>
 <body>
 <?php include("new-header.php"); ?>
+<div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
 	<img src="content/contact_main-image.jpg" />
 	<div class="banner-caption">
@@ -71,7 +72,7 @@
 	
 	<div class="dez-col-100 no-shadow">
 	<center>
-		<img src="content/contact_bt_send-message.jpg" class="project-image-vsmall" /><br><br>
+		<img src="content/contact_bt_send-message.jpg" class="project-image-vvsmall" /><br><br>
 	</center>	
 	</div><!-- End of the submit Button and also the small content -->
 </div><!-- This is the end of the main DIV -->

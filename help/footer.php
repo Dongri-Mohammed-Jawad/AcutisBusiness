@@ -1,58 +1,52 @@
+<hr>
 	<!-- Footer -->
-	<footer>
-	<div class="inner-footer dark">
-	<div class="end-footer">
-		<div class="lastdiv">
-	  <div class="about column3">
-	      <div class="logo">
-				<a href="index.php"><img src="images/acutis.png" alt=""></a>
-		  </div>
-         </div>
-
-		<div style="text-align: center" class="about column3">
-			<h4>Menu</h4>
-			<ul>
-				<li><a href="#">Testing</a></li>
-				<li><a href="#">Order supplies </a></li>
-				<li><a href="#">Make a payment</a></li>
-				<li><a href="#">Articles</a></li>
-				<li><a href="#">Acu-Citizens</a></li>
-				<li><a href="#">i-Acutis</a></li>
-				<li><a href="#">Search</a></li>
-				<li><a href="contact.php">Contact</a></li>
+	<footer class="">
+	<div class="footer-content">
+		<div class="footer-logo">
+			<img src="images/acutis.png" alt="major insurances,in network laboratories,drug test algorithms,drug test protocols" title="Acutis Diagnostics : quality control,toxicology scientists,accurate results,fast resuts,quick results,strategic planning " />
+		</div><!-- This is the End of the logo section in the footer -->
+		<div class="footer-menu">
+			<b class="text-green text-normal text-light-green padding-2">Menu</b>
+			<ul class="text-normal">
+				<li class="padding-2"><a href="Testing.php">Testing</a></li>
+				<li class="padding-2"><a href="OneLessThing.php">Order Supplies</a></li>
+				<li class="padding-2"><a href="OneLessThing.php">Make a Payment</a></li>
+				<li class="padding-2"><a href="News-Articles.php">Articles</a></li>
+				<li class="padding-2"><a href="Acu-Citizen.php">Acu-Citizens</a></li>
+				<li class="padding-2"><a href="#">i-Acutis</a></li>
+				<li class="padding-2"><a href="Career.php">Career</a></li>
+				<li class="padding-2"><a href="Contact-us.php">Contact</a></li>
 			</ul>
-		</div>
-
-		<div style="text-align: center" class="service column3">
-			<h4>How Can We Help?</h4>
-			<ul>
-				<li><a href="#">SupportUs and ContactUS</a></li></br></br></br>
-				<li><a href="#">Follow Acutis Diagnostics</a></li>
+		</div><!-- This is the end of the menu section n the footer. -->
+		<div class="footer-help text-green">
+			<b class="text-light-green">How can we Help?</b>
 			
-			</ul>
-		</div>
-
-	
-
-		<div style="text-align: center" class="contact column3">
-			<h4>Acutis Diagnostics</h4>
-			
-			<p>728 Lakefield Rd.</p>
-			<p>East Northport</p>
-			<p>New york, 11731</p></br>
-			<p>1-844-522-8847</p></br>
-			<p>service@acutisdaiagnostics.com</p>
-		</div>
-		<div class="clear"></div>
-		<!-- End Contact -->
-		<div id="back-to-top">
-			<a href="#top">Back to Top</a>
-		</div>
-	</div>
-	<!-- End inner Footer -->
-
-	
-			
-		</div>
+				<p class="text-normal">Support us and Contact</p>
+					<br><br>
+				<p class="text-normal">Follow Acutis Diagnostics </p>	
+				<div class="footer-icons">
+					<a href=""><img src="icons/facebook-logo.png" alt="Senior Scientists ,Point of care drug test,Workplace drug test,Pharmacogenetic testing" title="are patients taking illicit drugs" style="width:auto;" /></a>
+					<a href=""><img src="icons/linkedin-logo.png" title="determine if patients are taking their prescribed controlled medications " alt="drug test"  style="width:auto;"/></a>
+					<a href=""><img src="icons/twitter-logo-silhouette.png" title="substance abuse rehabilitation facilities,laboratory testing services to enable physicians" alt="drug testing in sports,drug testing sports,pharmacogenetic tests"  style="width:auto;"/></a>
+					<a href=""><img src="icons/youtube.png" title="diluted urine,urine specimen collector,tbm management" alt="cut off levels for drug testing,cyclobenzaprine drug test,sports drug testing,"  style="width:auto;"/></a>
+				</div>
+		</div><!-- This is the end of the help section in the footer.  -->
+		<div class="footer-contact">
+			<b class="text-normal text-light-green">Acutis Diagnostics</b>
+			<p class="text-normal text-green">
+			728 Larkfield Rd.<br>
+			East NorthPort<br>
+			New York, 11731<br><br>
+			1-844-522-8847<br><br>
+			service@acutisdiagnostics.com
+			</p>
+			<h3 class="text-green">Private Policy</h3>
+			<p class="font-10 mobile-center mobile-14">
+				Disclaimer:<br>
+				THIS WEBSITE DOES NOT PROVIDE MEDICAL ADVICE.<br>
+				The information contained on this website is not intended to be a substitute for, or to be relied upon as, medical advice, diagnosis, or treatment. This website is for informational purposes only. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.<br><br>
+				&copy; Copyright 2018 Acutis Diagnostics
+			</p>
+		</div><!-- This is the end of the contact section in the footer. -->
 	</div>
 	</footer>

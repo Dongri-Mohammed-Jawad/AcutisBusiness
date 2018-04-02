@@ -24,126 +24,122 @@
 </head>
 <body>
 <?php include("new-header.php"); ?>
-<div class="banner-section">
-	<img src="content/about_main_image.jpg" />
-	<div class="banner-caption">
-		<h1>About <span class="text-light-green">Us</span></h1>
-		<p class="banner-description">
-			<b>Acutis Diagnostics</b> uses the most advance Technology and applies  the most innovative thinking to medication monitoring and testing  for illictic drugs.
-		</p>
-	</div>
-</div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
-
-<div class="dez-col-100 no-shadow">
-	<div class="dez-col-50 padding-5 no-shadow">
-		<p class="padding-left-10 device-center">
-			State-of-the art  instrumentation and technologies are employed to determine results and then each sample is triple checked  to confirm the accuracy of our Data. This information is then communicated in our proprietary <span class="special-text">728 Patient Reports.</span>
-		</p>
-	</div>
-	<div class="dez-col-30 padding-5 no-shadow">
-		<center><img src="content/about_icon_paragraph_1.jpg" class="project-image-small padding-right-20" /></center>
-	</div>
-</div><!-- this is the end of the first section of content and its image. -->
-
-<div class="dez-col-100 no-shadow">
-	<div class="dez-col-30 padding-5 no-shadow">
-		<center><img src="content/about_icon_paragraph_2.jpg" class="project-image-small padding-left-20" /></center>
-	</div>
-	<div class="dez-col-50 padding-5 no-shadow">
-		<p class="device-center ">Whether taken in hand or read on a screen, our <span class="special-text">728 Patient Reports</span> allow Physicians, Clinicians, Counselors and Others to appraise a glance the patient's data. In Possession of the facts, doctor can make the best possible medical decisions.<br><br>Decisions that will produce the best outcomes, in the most-timely fashion.</p>
-	</div>
-</div><!-- This is the end of the second section of image  and its content. -->
-
-<div class="dez-col-100 no-shadow">
-		<center><img src="content/about_green_dots.jpg" class="project-image-small" /></center>
-</div>
-
-<div class="dez-col-100 no-shadow">
-	<center>
-	<p class="font-34"><span class="text-light-green">Speak to a</span> toxicology</p>
-	<p class="text-light-green">For a Patient's report or other general Support</p>
-	<p class="special-text font-26 no-border"><b>1-844-522-8847</b></p>
-	<img src="content/about_arrow.jpg" />
-	<p class="font-20 text-dark-green"><b>Choose Option 1</b></p>
-	</center>
-	<h1 class="padding-left-10 device-center"><span class="text-light-green">Our</span> Team</h1>
-	
-	<div class="dez-col-100 no-shadow">
-	<div class="dez-col-30 padding-5 no-shadow">
-		<center><img src="content/about_icon_our_team_2.jpg" class="project-image-normal padding-left-20 padding-top-20" /></center>
-	</div>
-	<div class="dez-col-50 padding-5 no-shadow">
-		<p class="device-center">At Acutis, we combine hard science practiced by our scientists and technologists, with the soft skills possessed by our support staff and sales specialists. We believe that rigorous technological processes and best practices are only fully realized when their benefits are accessible to every member of the team. Toward that end, we have built a company with no gaps. No bureaucracy, No insurmountable hierarchy.<br><br>
-		From our CEO engaged in strategic planning and our senior scientists in the lab, to sale specialists on the road, every employee is fully accountable.<br>Fully accessible. Completely willing to assume responsibility.</p>
-	</div>
-	</div><!-- This is the end of the third section of image  and its content. -->
-</div><!-- this is the end of the Choose option 1 section. -->
-
-<div class="dez-col-100 no-shadow">
-	<div class="dez-col-70 no-shadow">
-		<p class="device-center padding-left-20 padding-right-10">
-			The work we do is serious. If you understand the responsibilities inherent in our business, embrace technology, understand that innovation is an imperative and also believe the soul of a  company is found in the ethics it practices, we invite you to join us.
-		</p>
-	</div>
-	<div class="dez-col-20 padding-5 no-shadow">
-		<center><img src="content/about_bt_careers.jpg" class="project-image-normal" /></center>
-	</div>
-</div><!-- This is the end of the career button and its content. -->
-
-<div class="dez-col-100 no-shadow">
-	<div class="dez-col-50 padding-left-25 no-shadow">
-	<center>
-		<p class="special-text no-border">Name 1</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
-		<p class="text-light-green">CEO</p>
-		<p class="">Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
-	</center>
-	</div>
-</div>
-<div class="dez-col-100 no-shadow">
-	<div class="dez-col-40 padding-5 no-shadow">
-	<center>
-		<p class="special-text no-border text-bold">Name 1</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
-		<p class="text-light-green">Scientist</p>
-		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
-	</center>
-	</div>
-	<div class="dez-col-40 padding-5 no-shadow">
-	<center>
-		<p class="special-text no-border text-bold">Name 2</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
-		<p class="text-light-green">Lab Technician</p>
-		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
-	</center>
-	</div>
-</div>
-
-<div class="dez-col-100 no-shadow">
-	<div class="dez-col-40 padding-5 no-shadow">
-	<center>
-		<p class="special-text no-border text-bold">Name 3</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
-		<p class="text-light-green">Sales Specialist</p>
-		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
-	</center>
-	</div>
-	<div class="dez-col-40 padding-5 no-shadow">
-	<center>
-		<p class="special-text no-border text-bold">Name 4</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall" /></p>
-		<p class="text-light-green">Support Staff</p>
-		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
-	</center>
-	</div>
-</div>
-		<div class="dez-col-100 background-soap-color no-shadow">
-				<center class="padding-small"><img src="content/about_img_clia.jpg" class="clia" />
-				<img src="content/about_img_NY-HEALTH.jpg" /></center>
+<div class="container" id="top">
+	<div class="slider" class="adjust">
+		<div class="flexslider">
+		  <ul class="slides">
+		    <li>
+		      <img src="images/slider-img.jpg" title="Acutis Diagnostic : cyclobenzaprine drug test,Pharmacogenetic testing,Workplace drug test,esdy toxicology test,cheap drug test" alt="determine if patients are taking their prescribed controlled medications " />
+		    </li>
+			<li>
+			  <img src="images/slider-img.jpg" title="Acutis Diagnostic : cheap drug test,easy drug test,esdy toxicology test,Sample collection,healthcare industry,patient testing,Opioidepidemic" alt="Drug testing laboratory or lab,Urine testing laboratory or lab,Urine drug testing laboratory or lab,Oral fluid testing laboratory or lab" />
+			</li>
+		  </ul>
 		</div>
+
+	<div class="book-form">
+		<div class="inner-form">
+
+		<h4><img src="images/calendar.png" class="mobile-width-auto30" alt="Medication monitoring laboratory or lab,Prescription drug monitoring laboratory or lab,toxicology lab" title="drug testing lab,Pharmacogenetics testing,Confirmation drug testing,Patient prescription monitoring">Order supplies</h4>
+		<form id="contact-form2" action="#">
+			<div class="inputs">
+				<input name="name" id="name" type="text" data-value="Full Name" class="border-small">
+				<input name="mail" id="mail" type="text" data-value="E-Mail Address">
+				<input name="phone" id="phone" type="text" data-value="Phone Number">
+	       		<input name="date" id="date" type="text" data-value="DD/MM/YYYY 00:00">
+	        </div>
+
+			<input id="submit_contact2" type="submit" value="ORDER">
+			<div id="msg2" class="message"></div>
+		</form>
+		
+		</div>
+	</div>	
+	</div>
+	<div class="wrapper">
+				
+		<!-- Recent Works -->
+		<div class="features dark">
+			<div class="features-items column3">
+				<a href="#">
+					<div class="service-item"><!-- one.png -->
+						<a href="#" class="service-img"><center><img src="images/first1.png" class="mobile-width-auto40" alt="based urine drug testing laboratory,Oral fluid drug testing,Drug testing for substance abuse facility,Testing for rehab facility"></center></a>
+					</div>
+					<h4>Triple Check</h4>
+					<div class="line"></div>
+					<p>Acutis will bill your insurance<br> company directly for <br>testing and lab services</p>
+				</a>
+			</div>
+			<div class="features-items column3">
+				<a href="#">
+					<div class="service-item"><!-- two.png -->
+						<a href="#" class="service-img"><center><img src="images/second1.png" class="mobile-width-auto40" alt="Medical school,Fellowship,seasoned clinician" title="toxicology lab,drug testing lab,Pharmacogenetics testing"></center></a>
+					</div>
+					<h4>Quick Turnaround</h4>
+					<div class="line"></div>
+					<p>Acutis will bill your insurance<br> company directly for <br>testing and lab services</p>
+				</a>
+			</div>
+			<div class="features-items column3">
+				<a href="#">
+					<div class="service-item"><!-- three.png -->
+						<a href="#" class="service-img"><center><img src="images/third1.png" class="mobile-width-auto40" alt="Confirmation drug testing,Patient prescription monitoring,based urine drug testing laboratory" title="Oral fluid drug testing,Drug testing for substance abuse facility,Testing for rehab facility,Testing for"></center></a>
+					</div>
+					<h4>Access to Express</h4>
+					<div class="line"></div>
+					<p>Acutis will bill your insurance<br> company directly for <br>testing and lab services</p>
+				</a>
+			</div>
+			<div class="features-items column3">
+				<a href="#">
+					<div class="service-item"><!-- four.png -->
+						<a href="#" class="service-img"><center><img src="images/fourth1.png" class="mobile-width-auto40" alt="New York,Florida,Iowa,West Virginia" title="Acutis Diagnostic : New York,Washington DC,Virginia,Maryland,Massachusetts,Pennsylvania"></center></a>
+					</div>
+					<h4>Simplified Reports</h4>
+					<div class="line"></div>
+				<p>Acutis will bill your insurance<br> company directly for <br>testing and lab services</p>
+				</a>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<!-- End Recent Works -->
+		<div class="defination-content">
+			<h1 ><span class="text-bold">A New Definition</span> of Service.</h1>
+			<p class="text-indent-15 mobile-font-normal">We have built a company with a commitment to the best science, technology and practices, all set in motion by deeply committed professionals.</p>
+			<p class="text-indent-15"><b>Acutis</b> is a company with no gaps. No Bureacracy.No Evasive hierarchy. From our CEO engaged in strategic planning and our Senior Scientists in the lab, to Sales Specialists on road, every employee is fully Accountable. Fully Accessible. Completely willing to assume responsibility. <b>So you have one less thing to worry about.</b></p>
+		</div>
+
+		<div class="tested-content">
+			<p class="font-large text-center">Why Am I Being <span class="text-bold">Tested?</span></p>
+			<center><img src="images/dotline.png" /></center>
+			<p class="text-indent-15 text-center text-black text-normal">Please do not contact your physician's office with questions about an invoice from Acutis.</br>Contact Acutis to discuss payment and our financial hardship program</p>
+		</div>
+		
+		<div class="contact5 colunm text-center">
+		<p><strong>1-347-662-2450</strong></p>
+		<img src="images/bottom.png" class="mobile-width-auto" title="Acutis Diagnostic : Connecticut,New Jersey,professional labratory" alt="prescribe with confidence,patient monitoring,seasoned clinician" > </img>
+		</div>
+		<p class="availability"><span><strong>Available Monday-Friday 9am to 5pm</strong></span></p>
+	</div>
+	<!-- End Wrapper -->
+		
+	
+</div>
 
 <?php include("footer.php"); ?>
 <?php include("Bottom_Js.php"); ?>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script src="js/jquery.flexslider.js"></script>
+	<script type="text/javascript" charset="utf-8">
+  		$(window).load(function() {
+  		  $('.flexslider').flexslider();
+  		});
+	</script>
+	<script type="text/javascript" src="js/jquery.superfish.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/zebra_datepicker.js"></script>
+    <script type="text/javascript" src="js/core.js"></script>
+
 
 </div>
 </body>
