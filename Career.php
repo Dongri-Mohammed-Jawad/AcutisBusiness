@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title>Acutis Diagnostics | Career</title>
+	<link rel="shortcut icon" href="images/anchor-info.png" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">

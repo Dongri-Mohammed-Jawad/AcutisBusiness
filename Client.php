@@ -1,6 +1,11 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Acu-Citizen </title>
+	<title>Acutis Diagnostics | Client Support </title>
+	<meta name="keywords" content="strategic planning,quick results,fast resuts,accurate results,toxicology scientists,quality control" />
+	<meta name="description" content="drug test algorithms drug test protocols major insurances in network laboratoriescheap drug test." />
+	<meta charset="UTF-8" />
+	<link rel="shortcut icon" href="images/anchor-info.png" />
+	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">

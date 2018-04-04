@@ -1,6 +1,11 @@
 <html>
 <head>
 	<title>Acutis Diagnostics | Acu-Citizen </title>
+	<meta name="keywords" content="diluted urine drug test,specimen collection,toxicology labs,urine specimen collector,diluted urine" />
+	<meta name="description" name="toxicology labs drug testing cutoff levels tbm management ddi testing cut off levels for drug testing cyclobenzaprine drug test" />
+	<meta charset="UTF-8" />
+	<link rel="shortcut icon" href="images/anchor-info.png" />
+	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">

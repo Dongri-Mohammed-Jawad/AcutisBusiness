@@ -1,9 +1,14 @@
 Needs:
 1. Client Page Banner Image.
-2. News and Articles Content.
+2. Need News and Articles Page Content.
 3. i-Acutis Page in the footer of the Project.
 4. Social Media Links For the Footer Of the Project.
 5. Need " Sign in, Pay Here, Order " Page.
+6. Need Description of the Project or Page.
+7. Need content for Career Page.
+8. Need content for About-us Page.
+9. Social Media Links.
+10. Need the Letter " A " Icon (PNG Image) from the Acutis Logo for a Shortcut Icon in title.
 
 
 #------------------------------------------------------------------------------------------------------------------------------------#
@@ -15,3 +20,4 @@ Needs:
 6. Client.php Page Developed for Mobile Compatable Successfully.
 7. Contact-us.php Page developed for Mobile Compatable Successfully.
 8. About-us.php Page Developed for Mobile Compatable Successfully.
+9. Career.php Page Developed for Mobile Compatable Successfully.

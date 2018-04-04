@@ -1,6 +1,11 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Career</title>
+	<title>Acutis Diagnostics | Welcome to Acutis Diagnostics.</title>
+	<meta name="keywords" content="clinical toxicology illicit drugs medication innovative technologies clinical judgement Acutis Diagnostic" />
+	<meta name="description" content="Acutis Diagnostics specializes in toxicology confirmation testing to monitor patients on pain medication therapy and in substance abuse programs. We provide a comprehensive menu of tests for therapeutic and illicit drugs and their metabolites. Our tests are performed on Urine and Oral Fluids." />
+	<meta charset="UTF-8" />
+	<link rel="shortcut icon" href="images/anchor-info.png" />
+	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
@@ -105,7 +110,7 @@
 		</div>
 		<!-- End Recent Works -->
 		<div class="defination-content">
-			<h1 ><span class="text-bold">A New Definition</span> of Service.</h1>
+			<h1><span class="text-bold">A New Definition</span> of Service.</h1>
 			<p class="text-indent-15 mobile-font-normal">We have built a company with a commitment to the best science, technology and practices, all set in motion by deeply committed professionals.</p>
 			<p class="text-indent-15"><b>Acutis</b> is a company with no gaps. No Bureacracy.No Evasive hierarchy. From our CEO engaged in strategic planning and our Senior Scientists in the lab, to Sales Specialists on road, every employee is fully Accountable. Fully Accessible. Completely willing to assume responsibility. <b>So you have one less thing to worry about.</b></p>
 		</div>

@@ -1,6 +1,11 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Career</title>
+	<title>Acutis Diagnostics | About Us</title>
+	<meta name="keywords" content="Pharmacogenetic test pharmacogenetic testing pharmacogenetic tests drug testing sports" />
+	<meta name="description" content="drug testing in sports sports drug testing etg test etg alcohol test diluted urine drug test specimen collection" />
+	<meta charset="UTF-8" />
+	<link rel="shortcut icon" href="images/anchor-info.png" />
+	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">

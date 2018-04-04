@@ -9,6 +9,7 @@
 			<b class="text-green text-normal text-light-green padding-2">Menu</b>
 			<ul class="text-normal">
 				<li class="padding-2"><a href="Testing.php">Testing</a></li>
+				<li class="padding-2"><a href="QuickReferrence.php">Quick Reference</a></li>
 				<li class="padding-2"><a href="OneLessThing.php">Order Supplies</a></li>
 				<li class="padding-2"><a href="OneLessThing.php">Make a Payment</a></li>
 				<li class="padding-2"><a href="News-Articles.php">Articles</a></li>

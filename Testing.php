@@ -1,6 +1,11 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Client Support.</title>
+	<title>Acutis Diagnostics | Testing.</title>
+	<meta name="keywords" content="are patients taking illicit drugs,Pharmacogenetic testing,Workplace drug test,Point of care drug test,Senior Scientists " />
+	<meta name="description" content="laboratory testing services to enable physicians,substance abuse rehabilitation facilities,determine if patients are taking their prescribed controlled medications" />
+	<meta charset="UTF-8" />
+	<link rel="shortcut icon" href="images/anchor-info.png" />
+	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
@@ -68,12 +73,12 @@
 	</div>
 </div><!-- This is the end of the content with images main div. -->
 
-<div class="dez-col-100">
+<div class="dez-col-100 no-shadow">
 	<h1 class="padding-left-10 device-center mobile-font-5">Our 728 Patient <span class="text-light-green">Report</span></h1>
 	<center><img src="content/testing_img_report (1).jpg" class="width-100" /</center>
 </div><!-- This is the end of the content with full images of 728 patient section main div. -->
 
-<div class="dez-col-100">
+<div class="dez-col-100 no-shadow">
 	<h1 class="padding-left-10 device-center mobile-font-5">Triple Checked <span class="text-light-green">for best results</span></h1>
 	<p class="padding-left-10 device-center">
 		Our tests results are based on extensive analysis of the right combination of parent and metabolites.<br>
