@@ -1,14 +1,13 @@
 Needs:
-1. Client Page Banner Image.
-2. Need News and Articles Page Content.
-3. i-Acutis Page in the footer of the Project.
+1. Client Page Banner Image.(issued)
+2. Need News and Articles Page Content.(issued)
+3. i-Acutis Page in the footer of the Project.(issued)
 4. Social Media Links For the Footer Of the Project.
-5. Need " Sign in, Pay Here, Order " Page.
+5. Need " Sign in, Pay Here, Order " Page.(issued)
 6. Need Description of the Project or Page.
-7. Need content for Career Page.
-8. Need content for About-us Page.
-9. Social Media Links.
-10. Need the Letter " A " Icon (PNG Image) from the Acutis Logo for a Shortcut Icon in title.
+7. Need content for Career Page.(issued)
+8. Need content for About-us Page.(issued)
+9. Need the Letter " A " Icon (PNG Image) from the Acutis Logo for a Shortcut Icon in title.(issued)
 
 
 #------------------------------------------------------------------------------------------------------------------------------------#
