@@ -1,38 +1,12 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Client Support </title>
-	<meta name="keywords" content="strategic planning,quick results,fast resuts,accurate results,toxicology scientists,quality control" />
-	<meta name="description" content="drug test algorithms drug test protocols major insurances in network laboratoriescheap drug test." />
-	<meta charset="UTF-8" />
-	<link rel="shortcut icon" href="images/anchor-info.png" />
-	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
-<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
-	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
-	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/custom.css" />
-	<link rel="stylesheet" href="css/customm.css" />
-	<link rel="stylesheet" href="css/dez-col.css" />
-	<link rel="stylesheet" href="css/dez-margin.css" />
-	<link rel="stylesheet" href="css/dez-padding.css" />
-	<link rel="stylesheet" href="css/helper.css" />
-	<link rel="stylesheet" href="css/dez-fontsize.css" />
-	<link rel="stylesheet" href="css/Dez-Banner.css" />
-	<link rel="stylesheet" href="css/Dez-Client.css" />
-
+	<?php include("head.php"); ?>
 </head>
 <body>
 <?php include("new-header.php"); ?>
 <div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
-	<img src="content/acu_citizen_main_image.jpg" />
+	<img src="content/client_main_image.jpg" alt="prescribe with confidence, diluted urine" />
 	<div class="banner-caption">
 		<h1>Client <span class="text-light-green">Support</span></h1>
 		<p class="banner-description">
@@ -51,47 +25,47 @@
 
 <div class="dez-col-100 no-shadow">
 	<div class="dez-col-35 padding-5 no-shadow">
-		<center><img src="content/client_i_acutis.jpg" class="project-image-normal" /></center>
+		<center><img src="content/client_i_acutis.jpg" alt="professional labratory, toxicology labs" class="project-image-normal" /></center>
 	</div>
 	<div class="dez-col-45 padding-5 no-shadow">
-		<h1 class="device-center"><span class="text-light-green">i-</span>Acutis</h1>
-		<center><img src="content/about_green_dots.jpg" class="project-image-large" /></center>
-		<h2 class="text-dark-green device-center">Order new tests and make inquiries.</h2><br>
+		<h2 class="device-center"><span class="text-light-green">i-</span>Acutis</h2>
+		<center><img src="content/about_green_dots.jpg" alt="New Jersey, drug testing cutoff levels" class="project-image-large" /></center>
+		<p class="text-dark-green device-center">Order new tests and make inquiries.</p><br>
 		<p>Use this Password - protected page to log into your account and access your Patient's Information.</p>
-		<center><img src="content/homepage_bt_sign_in.jpg" class="project-image-small" /></center>
+		<center><img src="content/homepage_bt_sign_in.jpg" alt="tbm management" class="project-image-small" /></center>
 	</div>
 </div><!-- This is the end of the first section of image and content. -->
 
 <div class="dez-col-100 no-shadow">
 	<div class="dez-col-45 padding-5 no-shadow">
 		<h2 class="text-dark-green float-right mobile-font-4 device-center"><span class="text-light-green">Make a </span>Payment.</h2>
-		<center><img src="content/about_green_dots.jpg" class="project-image-large float-right" /></center>
+		<center><img src="content/about_green_dots.jpg" alt="Pennsylvania, ddi testing" class="project-image-large float-right" /></center>
 		<p class="text-dark-green device-center float-right">If you are a patient, pay your bill here.</p>
-		<center><img src="content/homepage_bt_pay_here.jpg" class="project-image-small float-right" /></center>
+		<center><img src="content/homepage_bt_pay_here.jpg" alt="Connecticut, Massachusetts, cut off levels for drug testing" class="project-image-small float-right" /></center>
 		<p class="device-center float-right padding-left-10">
 			If you receive a check from your insurance company, simply endorse it and mail it to us.<br>
 			Should you receive an invoice from Acutis, there is no need to contact your doctor, please feel free to contact us directly.
 		</p>
-		<center><img src="content/careers_arrow_vert.jpg" class="float-right padding-right-50 mobile-width-40 mobile-padding-right-40" /></center>
+		<center><img src="content/careers_arrow_vert.jpg" alt=""cyclobenzaprine drug test class="float-right padding-right-50 mobile-width-40 mobile-padding-right-40" /></center>
 		<h2 class="special-text font-30 device-center float-right width-100 no-border mobile-font-4"><center>1-347-662-2450</center></h2>
 		<h2 class="special-text font-20 device-center float-right width-100 no-border mobile-font-4"><center>Available Monday - Friday 9 am to 5 pm</center></h2>
 		<p class="float-right device-center text-light-green">
 			If you are Physician or Practice, Pay your bill here
 		</p>
-		<center><img src="content/homepage_bt_pay_here.jpg" class="project-image-small float-right" /></center>
+		<center><img src="content/homepage_bt_pay_here.jpg" alt="laboratory testing services to enable physicians" class="project-image-small float-right" /></center>
 	</div>
 	<div class="dez-col-35 padding-5 no-shadow">
-		<center><img src="content/client_make_payment.jpg" class="project-image-normal" /></center>
+		<center><img src="content/client_make_payment.jpg" alt="Virginia substance abuse rehabilitation facilities" class="project-image-normal" /></center>
 	</div>
 </div><!-- This is the end of the second section of content with image. -->
 
 <div class="dez-col-100 text-dark-green no-shadow">
 	<div class="dez-col-50 no-shadow">
-		<center><img src="content/client_supplies_materials.jpg" class="project-image-normal" /></center>
+		<center><img src="content/client_supplies_materials.jpg" alt="Maryland, Washington DC determine if patients are taking their prescribed controlled medications " class="project-image-normal" /></center>
 	</div>
 	<div class="dez-col-50 no-shadow">
 		<h1 class="device-center">Supplies & <b>Materials</b></h1>
-		<center><img src="content/about_green_dots.jpg" class="project-image-large"/></center>
+		<center><img src="content/about_green_dots.jpg" alt="West Virginia are patients taking illicit drugs" class="project-image-large"/></center>
 		<p class="device-center">Order Your Supplies and Materials Here</p>
 		<p class="padding-3 line-height-normal device-center">
 		You Must Provide :
@@ -109,7 +83,7 @@
 			</div>
 			<div class="dez-col-35 float-left padding-top-5 no-shadow">
 			<center>
-				<img src="content/client_fedex_icon.jpg" class="project-image-vsmall" /> <img src="content/client_ups_icon.jpg" class="project-image-vsmall" />
+				<img src="content/client_fedex_icon.jpg" alt="Iowa Medical school Pharmacogenetic testing" class="project-image-vsmall" /> <img src="content/client_ups_icon.jpg" class="project-image-vsmall" />
 			</center>	
 			</div>
 			<div class="dez-col-30 float-left no-shadow">
@@ -120,7 +94,7 @@
 				</center>
 			</div>
 		</div><!-- This is the 100% end of the FedEx and UPs Image and content -->
-		<center><img src="content/homepage_bt_pay_order.jpg" class="padding-top-2 project-image-small" /></center>
+		<center><img src="content/homepage_bt_pay_order.jpg" alt="Fellowship New York Florida Workplace drug test" class="padding-top-2 project-image-small" /></center>
 	</div><!-- This is the end of the right side content of the Supplies & Materials --> 
 </div><!-- This is the end of the Supplies and Materials Here. -->
 

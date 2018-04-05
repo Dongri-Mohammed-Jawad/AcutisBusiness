@@ -1,37 +1,12 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Testing.</title>
-	<meta name="keywords" content="are patients taking illicit drugs,Pharmacogenetic testing,Workplace drug test,Point of care drug test,Senior Scientists " />
-	<meta name="description" content="laboratory testing services to enable physicians,substance abuse rehabilitation facilities,determine if patients are taking their prescribed controlled medications" />
-	<meta charset="UTF-8" />
-	<link rel="shortcut icon" href="images/anchor-info.png" />
-	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
-<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
-	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
-	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/custom.css" />
-	<link rel="stylesheet" href="css/customm.css" />
-	<link rel="stylesheet" href="css/dez-col.css" />
-	<link rel="stylesheet" href="css/dez-margin.css" />
-	<link rel="stylesheet" href="css/dez-padding.css" />
-	<link rel="stylesheet" href="css/helper.css" />
-	<link rel="stylesheet" href="css/dez-fontsize.css" />
-	<link rel="stylesheet" href="css/Dez-Banner.css" />
-	<link rel="stylesheet" href="css/Dez-Client.css" />
+	<?php include("head.php"); ?>
 </head>
 <body>
 <?php include("new-header.php"); ?>
 <div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
-	<img src="content/testing_main_image.jpg" />
+	<img src="content/testing_main_image.jpg" alt="Opioidepidemic" />
 	<div class="banner-caption">
 		<h1>Testing <span class="text-light-green">Options</span></h1>
 		<p class="banner-description">
@@ -42,11 +17,11 @@
 
 <div class="dez-col-100 no-shadow">
 	<div class="dez-col-30 padding-left-10 no-shadow">
-		<center><img src="content/testing_img_1.jpg" class="project-image-normal" /></center>
+		<center><img src="content/testing_img_1.jpg" alt="Drug testing laboratory or lab" class="project-image-normal" /></center>
 	</div>
 	<div class="dez-col-50 padding-5 no-shadow">
 		<p class="mobile-text-3 padding-right-5">
-			Our practices, advanced technology and instrumentation are managed by committed professionals who share a " no compromise " work ethic. Every step - from sample delivery to our lab, to our final reporting - adheres to protocols that have <span class="special-content">no tolerance for error</span>
+			Our practices, advanced technology and instrumentation are managed by committed professionals who share a " no compromise " work ethic. Every step - from sample delivery to our lab, to our final reporting - adheres to protocols that have <span class="special-content">no tolerance for error.</span>
 		</p>
 	</div>
 </div><!-- This is the end of the content with images main div. -->
@@ -58,13 +33,13 @@
 		</p>
 	</div>
 	<div class="dez-col-30 no-shadow">
-		<center><img src="content/testing_img_2.jpg" class="project-image-normal" /></center>
+		<center><img src="content/testing_img_2.jpg" alt="Urine testing laboratory or lab" class="project-image-normal" /></center>
 	</div>
 </div><!-- This is the end of the content with images main div. -->
 
 <div class="dez-col-100 no-shadow">
 	<div class="dez-col-30 padding-left-10 no-shadow">
-		<center><img src="content/testing_img_3.jpg" class="project-image-normal" /></center>
+		<center><img src="content/testing_img_3.jpg" alt="Urine drug testing laboratory or lab" class="project-image-normal" /></center>
 	</div>
 	<div class="dez-col-45 padding-5 no-shadow">
 		<p class="mobile-text-3 padding-right-5">
@@ -74,17 +49,17 @@
 </div><!-- This is the end of the content with images main div. -->
 
 <div class="dez-col-100 no-shadow">
-	<h1 class="padding-left-10 device-center mobile-font-5">Our 728 Patient <span class="text-light-green">Report</span></h1>
-	<center><img src="content/testing_img_report (1).jpg" class="width-100" /</center>
+	<h2 class="padding-left-10 device-center mobile-font-5 text-dark-green">Our 728 Patient <span class="text-light-green">Report</span></h2>
+	<center><img src="content/testing_img_report (1).jpg" alt="Oral fluid testing laboratory or lab" class="width-100" /</center>
 </div><!-- This is the end of the content with full images of 728 patient section main div. -->
 
 <div class="dez-col-100 no-shadow">
-	<h1 class="padding-left-10 device-center mobile-font-5">Triple Checked <span class="text-light-green">for best results</span></h1>
+	<h2 class="padding-left-10 device-center mobile-font-5 text-dark-green">Triple Checked <span class="text-light-green">for best results</span></h2>
 	<p class="padding-left-10 device-center">
 		Our tests results are based on extensive analysis of the right combination of parent and metabolites.<br>
 		Each result is then only released after a <span class="special-text no-border">rigorous triple review process.</span>
 	</p>
-	<center><img src="content/testing_img_triple_checked.jpg" class="width-100" /</center>
+	<center><img src="content/testing_img_triple_checked.jpg" alt="Medication monitoring laboratory or lab Prescription drug monitoring laboratory or lab" class="width-100" /</center>
 </div><!-- This is the end of the content with full images of 728 patient section main div. -->
 
 

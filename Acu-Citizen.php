@@ -1,40 +1,14 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Acu-Citizen </title>
-	<meta name="keywords" content="diluted urine drug test,specimen collection,toxicology labs,urine specimen collector,diluted urine" />
-	<meta name="description" name="toxicology labs drug testing cutoff levels tbm management ddi testing cut off levels for drug testing cyclobenzaprine drug test" />
-	<meta charset="UTF-8" />
-	<link rel="shortcut icon" href="images/anchor-info.png" />
-	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
-<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
-	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
-	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/custom.css" />
-	<link rel="stylesheet" href="css/customm.css" />
-	<link rel="stylesheet" href="css/dez-col.css" />
-	<link rel="stylesheet" href="css/dez-margin.css" />
-	<link rel="stylesheet" href="css/dez-padding.css" />
-	<link rel="stylesheet" href="css/helper.css" />
-	<link rel="stylesheet" href="css/dez-fontsize.css" />
-	<link rel="stylesheet" href="css/Dez-Banner.css" />
-	<link rel="stylesheet" href="css/Dez-Client.css" />
-
+	<?php include("head.php"); ?>
 </head>
 <body>
 <?php include("new-header.php"); ?>
 <div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
-	<img src="content/acu_citizen_main_image.jpg" />
+	<img src="content/acu_citizen_main_image.jpg" alt="pharmacogenetic tests Pharmacogenetics testing" />
 	<div class="banner-caption">
-		<h1>Acu-Citizen</h1>
+		<h1><span class="text-light-green">Acu-</span>Citizen</h1>
 		<p class="banner-description">Being Acu-Citizen is being an activist for good <b>Acutis</b> is part of a larger community, and that community is complex, diverse and in perpetual motion. We take pride in our role as Acu-Citizens, working with partners and contributing to cause that make society a better place for all its members.</p>
 	</div>
 </div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
@@ -42,7 +16,7 @@
 <div class="dez-col-100 no-shadow">
 	<h1 class="text-dark-green padding-left-10 device-center">Our Partnership with Shatterproof</h1>
 	<div class="dez-col-40 no-shadow">
-		<center><img src="content/acu_citizen_icon_paragraph_1.jpg" class="project-image-small padding-left-20" /></center>
+		<center><img src="content/acu_citizen_icon_paragraph_1.jpg" alt="drug testing sports drug testing lab" class="project-image-small padding-left-20" /></center>
 	</div>
 	<div class="dez-col-50 padding-3 device-center no-shadow">
 		<p>
@@ -63,12 +37,12 @@
 		</p>
 	</div>
 	<div class="dez-col-40 padding-3 no-shadow">
-		<center><img src="content/acu_citizen_shatter_proof_logo.jpg" class="project-image-small padding-left-20" /></center>
+		<center><img src="content/acu_citizen_shatter_proof_logo.jpg" alt="drug testing in sports toxicology lab" class="project-image-small padding-left-20" /></center>
 	</div>
 </div><!-- This is the end of the activist for good. -->
 
 <div class="dez-col-100 no-shadow">
-	<center><a href="http://shatterproof.org"><img src="content/acu_citizen_bt_shatterproof.jpg" class="padding-5 project-image-vsmall" /></a></center>
+	<center><a href="http://shatterproof.org"><img src="content/acu_citizen_bt_shatterproof.jpg" alt="sports drug testing" class="padding-5 project-image-vsmall" /></a></center>
 </div><!-- this is the end of the Shatterproof Click button. -->
 
 <?php include("footer.php"); ?>

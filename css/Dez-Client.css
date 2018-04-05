@@ -31,6 +31,7 @@ h1
 p
 {
 	font-size:20px;
+	font-family:Arial regular;
 }
 
 .background-red
@@ -39,8 +40,9 @@ p
 }
 .special-text
 {
-	color:#D40250;
+	color:#dc0d57;
 	border-bottom:2px solid #D40250;
+	font-family:Arial Bold;
 }
 .no-border
 {

@@ -1,41 +1,16 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | About Us</title>
-	<meta name="keywords" content="Pharmacogenetic test pharmacogenetic testing pharmacogenetic tests drug testing sports" />
-	<meta name="description" content="drug testing in sports sports drug testing etg test etg alcohol test diluted urine drug test specimen collection" />
-	<meta charset="UTF-8" />
-	<link rel="shortcut icon" href="images/anchor-info.png" />
-	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
-<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
-	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
-	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/custom.css" />
-	<link rel="stylesheet" href="css/customm.css" />
-	<link rel="stylesheet" href="css/dez-col.css" />
-	<link rel="stylesheet" href="css/dez-margin.css" />
-	<link rel="stylesheet" href="css/dez-padding.css" />
-	<link rel="stylesheet" href="css/helper.css" />
-	<link rel="stylesheet" href="css/dez-fontsize.css" />
-	<link rel="stylesheet" href="css/Dez-Banner.css" />
-	<link rel="stylesheet" href="css/Dez-Client.css" />
+	<?php include("head.php"); ?>
 </head>
 <body>
 <?php include("new-header.php"); ?>
 <div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
-	<img src="content/about_main_image.jpg" />
+	<img src="content/about_main_image.jpg" alt="clinical toxicology" />
 	<div class="banner-caption">
-		<h1>About <span class="text-light-green">Us</span></h1>
+		<h1><span class="text-light-green">About </span><span class="text-dark-green">Us</span></h1>
 		<p class="banner-description">
-			<b>Acutis Diagnostics</b> uses the most advance Technology and applies  the most innovative thinking to medication monitoring and testing  for illictic drugs.
+			<b class="font-size-62pt">Acutis Diagnostics</b> uses the most advance Technology and applies  the most innovative thinking to medication monitoring and testing  for illictic drugs.
 		</p>
 	</div>
 </div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
@@ -47,13 +22,13 @@
 		</p>
 	</div>
 	<div class="dez-col-30 padding-5 no-shadow">
-		<center><img src="content/about_icon_paragraph_1.jpg" class="project-image-small padding-right-20" /></center>
+		<center><img src="content/about_icon_paragraph_1.jpg" alt="illicit drugs" class="project-image-small padding-right-20" /></center>
 	</div>
 </div><!-- this is the end of the first section of content and its image. -->
 
 <div class="dez-col-100 no-shadow">
 	<div class="dez-col-30 padding-5 no-shadow">
-		<center><img src="content/about_icon_paragraph_2.jpg" class="project-image-small padding-left-20" /></center>
+		<center><img src="content/about_icon_paragraph_2.jpg" alt="medication" class="project-image-small padding-left-20" /></center>
 	</div>
 	<div class="dez-col-50 padding-5 no-shadow">
 		<p class="device-center ">Whether taken in hand or read on a screen, our <span class="special-text">728 Patient Reports</span> allow Physicians, Clinicians, Counselors and Others to appraise a glance the patient's data. In Possession of the facts, doctor can make the best possible medical decisions.<br><br>Decisions that will produce the best outcomes, in the most-timely fashion.</p>
@@ -61,22 +36,22 @@
 </div><!-- This is the end of the second section of image  and its content. -->
 
 <div class="dez-col-100 no-shadow">
-		<center><img src="content/about_green_dots.jpg" class="project-image-small" /></center>
+		<center><img src="content/about_green_dots.jpg" alt="innovative technologies" class="project-image-small" /></center>
 </div>
 
 <div class="dez-col-100 no-shadow">
 	<center>
-	<p class="font-34"><span class="text-light-green">Speak to a</span> toxicology</p>
+	<h2 class="font-34"><span class="text-light-green">Speak to a</span><span class="text-dark-green"> toxicology</span></h2>
 	<p class="text-light-green">For a Patient's report or other general Support</p>
 	<p class="special-text no-border"><b>1-844-522-8847</b></p>
-	<img src="content/about_arrow.jpg" class="mobile-width-auto" />
+	<img src="content/about_arrow.jpg" alt="clinical judgement" class="mobile-width-auto" />
 	<p class="text-dark-green"><b>Choose Option 1</b></p>
 	</center>
 	<h1 class="padding-left-10 device-center"><span class="text-light-green">Our</span> Team</h1>
 	
 	<div class="dez-col-100 no-shadow">
 	<div class="dez-col-30 padding-5 no-shadow">
-		<center><img src="content/about_icon_our_team_2.jpg" class="project-image-normal padding-left-20 padding-top-20" /></center>
+		<center><img src="content/about_icon_our_team_2.jpg" alt="medication monitoring" class="project-image-normal padding-left-20 padding-top-20" /></center>
 	</div>
 	<div class="dez-col-50 padding-5 no-shadow">
 		<p class="device-center">At Acutis, we combine hard science practiced by our scientists and technologists, with the soft skills possessed by our support staff and sales specialists. We believe that rigorous technological processes and best practices are only fully realized when their benefits are accessible to every member of the team. Toward that end, we have built a company with no gaps. No bureaucracy, No insurmountable hierarchy.<br><br>
@@ -92,16 +67,16 @@
 		</p>
 	</div>
 	<div class="dez-col-20 padding-5 no-shadow">
-		<center><img src="content/about_bt_careers.jpg" class="project-image-normal" /></center>
+		<center><img src="content/about_bt_careers.jpg" alt="The patient took the prescibed medication" class="project-image-normal" /></center>
 	</div>
 </div><!-- This is the end of the career button and its content. -->
 
 <div class="dez-col-100 no-shadow">
 	<div class="dez-col-50 padding-left-25 no-shadow">
 	<center>
-		<p class="special-text no-border">Name 1</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
-		<p class="text-light-green">CEO</p>
+		<h2 class="special-text no-border">Name 1</h2>
+		<p><img src="content/about_arrow.jpg" alt="Medical abuse" class="project-image-vvsmall mobile-width-auto" /></p>
+		<p class="text-light-green text-bold">CEO</p>
 		<p class="">Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
 	</div>
@@ -109,17 +84,17 @@
 <div class="dez-col-100 no-shadow">
 	<div class="dez-col-40 padding-5 no-shadow">
 	<center>
-		<p class="special-text no-border text-bold">Name 1</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
-		<p class="text-light-green">Scientist</p>
+		<h2 class="special-text no-border text-bold">Name 1</h2>
+		<p><img src="content/about_arrow.jpg" alt="OPIOIDS" class="project-image-vvsmall mobile-width-auto" /></p>
+		<p class="text-light-green text-bold">Scientist</p>
 		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
 	</div>
 	<div class="dez-col-40 padding-5 no-shadow">
 	<center>
-		<p class="special-text no-border text-bold">Name 2</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
-		<p class="text-light-green">Lab Technician</p>
+		<h2 class="special-text no-border text-bold">Name 2</h2>
+		<p><img src="content/about_arrow.jpg" alt="Narcotics" class="project-image-vvsmall mobile-width-auto" /></p>
+		<p class="text-light-green text-bold">Lab Technician</p>
 		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
 	</div>
@@ -128,24 +103,24 @@
 <div class="dez-col-100 no-shadow">
 	<div class="dez-col-40 padding-5 no-shadow">
 	<center>
-		<p class="special-text no-border text-bold">Name 3</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
-		<p class="text-light-green">Sales Specialist</p>
+		<h2 class="special-text no-border text-bold">Name 3</h2>
+		<p><img src="content/about_arrow.jpg" alt="Drug Abuse" class="project-image-vvsmall mobile-width-auto" /></p>
+		<p class="text-light-green text-bold">Sales Specialist</p>
 		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
 	</div>
 	<div class="dez-col-40 padding-5 no-shadow">
 	<center>
-		<p class="special-text no-border text-bold">Name 4</p>
-		<p><img src="content/about_arrow.jpg" class="project-image-vvsmall mobile-width-auto" /></p>
-		<p class="text-light-green">Support Staff</p>
+		<h2 class="special-text no-border text-bold">Name 4</h2>
+		<p><img src="content/about_arrow.jpg" alt="drug test" class="project-image-vvsmall mobile-width-auto" /></p>
+		<p class="text-light-green text-bold">Support Staff</p>
 		<p>Please do not contact your physician's office with questions about an invoice from Acutis.<br>Contact us to discuss payment and our financial hardship program.</p>
 	</center>
 	</div>
 </div>
 		<div class="dez-col-100 background-soap-color no-shadow">
-				<center class="padding-small"><img src="content/about_img_clia.jpg" class="clia" />
-				<img src="content/about_img_NY-HEALTH.jpg" /></center>
+				<center class="padding-small"><img src="content/about_img_clia.jpg" alt="Pharmacogenetic test" class="clia" />
+				<img src="content/about_img_NY-HEALTH.jpg" alt="pharmacogenetic testing" /></center>
 		</div>
 
 <?php include("footer.php"); ?>

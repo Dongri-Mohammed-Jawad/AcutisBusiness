@@ -1,31 +1,6 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | Welcome to Acutis Diagnostics.</title>
-	<meta name="keywords" content="clinical toxicology illicit drugs medication innovative technologies clinical judgement Acutis Diagnostic" />
-	<meta name="description" content="Acutis Diagnostics specializes in toxicology confirmation testing to monitor patients on pain medication therapy and in substance abuse programs. We provide a comprehensive menu of tests for therapeutic and illicit drugs and their metabolites. Our tests are performed on Urine and Oral Fluids." />
-	<meta charset="UTF-8" />
-	<link rel="shortcut icon" href="images/anchor-info.png" />
-	<meta name="viewport" content="width=device-width;initial-scale=1.0" />
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
-<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
-	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
-	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/custom.css" />
-	<link rel="stylesheet" href="css/customm.css" />
-	<link rel="stylesheet" href="css/dez-col.css" />
-	<link rel="stylesheet" href="css/dez-margin.css" />
-	<link rel="stylesheet" href="css/dez-padding.css" />
-	<link rel="stylesheet" href="css/helper.css" />
-	<link rel="stylesheet" href="css/dez-fontsize.css" />
-	<link rel="stylesheet" href="css/Dez-Banner.css" />
-	<link rel="stylesheet" href="css/Dez-Client.css" />
+	<?php include("head.php"); ?>
 </head>
 <body>
 <?php include("new-header.php"); ?>

@@ -1,3 +1,8 @@
+@font-face
+{
+	font-family:Roboto-Regular;
+	src: url(../font/Roboto-Regular.ttf);
+}
 
 .banner-section img
 {
@@ -7,12 +12,14 @@
 {
 	position:absolute;
 	top:180px;
-	font-size:36px;
+	font-size:62pt;
+	font-family:roboto-regular;
 	padding:5%;
 }
 .banner-caption h1
 {
 	color:#006c6e;
+	width:100%;
 }
 .banner-description
 {
@@ -21,11 +28,13 @@
 	font-size:22px;
 	padding:1%;
 	color:#006c6e;
+	font-family:Arial Regular;
 	word-spacing:4px;
 }
 .text-light-green
 {
 	color:#69b0ae;
+	font-family:roboto-light;
 }
 .text-dark-green
 {
@@ -60,7 +69,7 @@
 	text-indent:30px;
 }
 
-.lsited-help p
+.listed-help p
 {
 	background-image:url("../content/careers_arrow_hor.jpg");
 	background-repeat:no-repeat;

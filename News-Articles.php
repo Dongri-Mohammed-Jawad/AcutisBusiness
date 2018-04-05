@@ -1,33 +1,12 @@
 <html>
 <head>
-	<title>Acutis Diagnostics | News & Articles</title>
-	<link rel="shortcut icon" href="images/anchor-info.png" />
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/dr-framework.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/navigation.css" type="text/css" media="screen">
-<!--	<link rel="stylesheet" type="text/css" href="css/fullwidth.css" media="screen" />-->
-	<link rel="stylesheet" href="css/revslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/jquery.bxslider.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="screen">
-	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="css/custom.css" />
-	<link rel="stylesheet" href="css/customm.css" />
-	<link rel="stylesheet" href="css/dez-col.css" />
-	<link rel="stylesheet" href="css/dez-margin.css" />
-	<link rel="stylesheet" href="css/dez-padding.css" />
-	<link rel="stylesheet" href="css/helper.css" />
-	<link rel="stylesheet" href="css/dez-fontsize.css" />
-	<link rel="stylesheet" href="css/Dez-Banner.css" />
-	<link rel="stylesheet" href="css/Dez-Client.css" />
+	<?php include("head.php"); ?>
 </head>
 <body>
 <?php include("new-header.php"); ?>
 <div class="device-hide"><?php include("social-links.php"); ?></div>
 <div class="banner-section">
-	<img src="content/news_main_image.jpg" />
+	<img src="content/news_main_image.jpg" alt="quick results" />
 	<div class="banner-caption">
 		<h1>News <span class="text-light-green">& Articles</span></h1>
 	</div>
@@ -37,8 +16,8 @@
 	<h1 class="padding-left-10 device-center">Articles<br><span class="text-light-green">Featured in </span>general interest</h1>
 	<div class="dez-col-25 padding-left-10 no-shadow">
 		
-			<center><img src="content/news_image_1.jpg" class="project-image-large" /></center>
-			<p class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></p>
+			<center><img src="content/news_image_1.jpg" alt="fast resuts" class="project-image-large" /></center>
+			<h2 class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></h2>
 			<p class="text-light-green padding-left-5 device-center">
 				The CDC reports that opioids of all types have killed more than 33,000 people in 2015 alone, and the number is rising. A newer threat of mixed opioids plagues Ventura Country in California and could signal a need for more caution across the country.
 			</p>
@@ -47,8 +26,8 @@
 	</div>
 	<div class="dez-col-25 padding-left-5 no-shadow">
 		
-			<center><img src="content/news_image_2.jpg" class="project-image-large" /></center>
-			<p class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></p>
+			<center><img src="content/news_image_2.jpg" alt="accurate results" class="project-image-large" /></center>
+			<h2 class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></h2>
 			<p class="text-light-green padding-left-5 device-center">
 				The CDC reports that opioids of all types have killed more than 33,000 people in 2015 alone, and the number is rising. A newer threat of mixed opioids plagues Ventura Country in California and could signal a need for more caution across the country.
 			</p>
@@ -57,8 +36,8 @@
 	</div>
 	<div class="dez-col-25 padding-left-5 no-shadow">
 		
-			<center><img src="content/news_image_3.jpg" class="project-image-large" /></center>
-			<p class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></p>
+			<center><img src="content/news_image_3.jpg" alt="toxicology scientists" class="project-image-large" /></center>
+			<h2 class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></h2>
 			<p class="text-light-green padding-left-5 device-center">
 				The CDC reports that opioids of all types have killed more than 33,000 people in 2015 alone, and the number is rising. A newer threat of mixed opioids plagues Ventura Country in California and could signal a need for more caution across the country.
 			</p>
@@ -67,8 +46,8 @@
 	</div>
 	<div class="dez-col-25 padding-left-10 no-shadow">
 		
-			<center><img src="content/news_image_5.jpg" class="project-image-large" /></center>
-			<p class="text-dark-green padding-left-5 device-center "><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></p>
+			<center><img src="content/news_image_5.jpg" alt="quality control" class="project-image-large" /></center>
+			<h2 class="text-dark-green padding-left-5 device-center "><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></h2>
 			<p class="text-light-green padding-left-5 device-center">
 				The CDC reports that opioids of all types have killed more than 33,000 people in 2015 alone, and the number is rising. A newer threat of mixed opioids plagues Ventura Country in California and could signal a need for more caution across the country.
 			</p>
@@ -77,8 +56,8 @@
 	</div>
 	<div class="dez-col-25 padding-left-5 no-shadow">
 		
-			<center><img src="content/news_image_4.jpg" class="project-image-large" /></center>
-			<p class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></p>
+			<center><img src="content/news_image_4.jpg" alt="drug test algorithms" class="project-image-large" /></center>
+			<h2 class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></h2>
 			<p class="text-light-green padding-left-5 device-center">
 				The CDC reports that opioids of all types have killed more than 33,000 people in 2015 alone, and the number is rising. A newer threat of mixed opioids plagues Ventura Country in California and could signal a need for more caution across the country.
 			</p>
@@ -91,8 +70,8 @@
 	<h1 class="padding-left-10 device-center"><span class="text-light-green">Featured in </span>Medicine and Technology</h1>
 	<div class="dez-col-25 padding-left-10 no-shadow">
 		
-			<center><img src="content/news_image_1.jpg" class="project-image-large" /></center>
-			<p class="text-dark-green padding-left-5 device-center "><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></p>
+			<center><img src="content/news_image_1.jpg" alt="drug test protocols" class="project-image-large" /></center>
+			<h2 class="text-dark-green padding-left-5 device-center "><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></h2>
 			<p class="text-light-green padding-left-5 device-center">
 				The CDC reports that opioids of all types have killed more than 33,000 people in 2015 alone, and the number is rising. A newer threat of mixed opioids plagues Ventura Country in California and could signal a need for more caution across the country.
 			</p>
@@ -101,8 +80,8 @@
 	</div>
 	<div class="dez-col-25 padding-left-5 no-shadow">
 		
-			<center><img src="content/news_image_2.jpg" class="project-image-large" /></center>
-			<p class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></p>
+			<center><img src="content/news_image_2.jpg" alt="major insurances" class="project-image-large" /></center>
+			<h2 class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></h2>
 			<p class="text-light-green padding-left-5 device-center">
 				The CDC reports that opioids of all types have killed more than 33,000 people in 2015 alone, and the number is rising. A newer threat of mixed opioids plagues Ventura Country in California and could signal a need for more caution across the country.
 			</p>
@@ -111,8 +90,8 @@
 	</div>
 	<div class="dez-col-25 padding-left-5 no-shadow">
 		
-			<center><img src="content/news_image_3.jpg" class="project-image-large" /></center>
-			<p class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></p>
+			<center><img src="content/news_image_3.jpg" alt="in network laboratories" class="project-image-large" /></center>
+			<h2 class="text-dark-green padding-left-5 device-center"><b>Fentanyl-Laced Heroin Overdoses Rise in California Signaling Higher Need for Clinical Caution</b></h2>
 			<p class="text-light-green padding-left-5 device-center">
 				The CDC reports that opioids of all types have killed more than 33,000 people in 2015 alone, and the number is rising. A newer threat of mixed opioids plagues Ventura Country in California and could signal a need for more caution across the country.
 			</p>

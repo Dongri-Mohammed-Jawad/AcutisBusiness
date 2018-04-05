@@ -6,25 +6,24 @@
 			<img src="images/acutis.png" class="mobile-width-auto50" alt="major insurances,in network laboratories,drug test algorithms,drug test protocols" title="Acutis Diagnostics : quality control,toxicology scientists,accurate results,fast resuts,quick results,strategic planning " />
 		</div><!-- This is the End of the logo section in the footer -->
 		<div class="footer-menu">
-			<b class="text-green text-normal text-light-green padding-2">Menu</b>
+			<b class="text-green text-normal text-dark-green padding-2">Menu</b>
 			<ul class="text-normal">
+				<li class="padding-2"><a href="About-us.php">About Us</a></li>
 				<li class="padding-2"><a href="Testing.php">Testing</a></li>
 				<li class="padding-2"><a href="QuickReferrence.php">Quick Reference</a></li>
-				<li class="padding-2"><a href="OneLessThing.php">Order Supplies</a></li>
-				<li class="padding-2"><a href="OneLessThing.php">Make a Payment</a></li>
-				<li class="padding-2"><a href="News-Articles.php">Articles</a></li>
+				<li class="padding-2"><a href="News-Articles.php">News & Reports</a></li>
 				<li class="padding-2"><a href="Acu-Citizen.php">Acu-Citizens</a></li>
-				<li class="padding-2"><a href="#">i-Acutis</a></li>
 				<li class="padding-2"><a href="Career.php">Career</a></li>
 				<li class="padding-2"><a href="Contact-us.php">Contact</a></li>
 			</ul>
 		</div><!-- This is the end of the menu section n the footer. -->
 		<div class="footer-help text-green">
-			<b class="text-light-green">How can we Help?</b>
+			<b class="text-light-dark-green">Client Info</b>
 			
-				<p class="text-normal">Support us and Contact</p>
+				<a href="#"><p class="text-normal">i-Acutis</p></a>
+				<a href="#"><p class="text-normal">Order Supplies & Materials</p></a>	
+				<a href="#"><p class="text-normal">Make a Payment</p>	</a>
 					<br><br>
-				<p class="text-normal">Follow Acutis Diagnostics </p>	
 				<div class="footer-icons">
 					<a href=""><img src="icons/facebook-logo.png" class="mobile-width-auto20" alt="Senior Scientists ,Point of care drug test,Workplace drug test,Pharmacogenetic testing" title="are patients taking illicit drugs" style="width:auto;" /></a>
 					<a href=""><img src="icons/linkedin-logo.png" class="mobile-width-auto20" title="determine if patients are taking their prescribed controlled medications " alt="drug test"  style="width:auto;"/></a>
