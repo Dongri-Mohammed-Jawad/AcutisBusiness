@@ -67,7 +67,7 @@
 		</p>
 	</div>
 	<div class="dez-col-20 padding-5 no-shadow">
-		<center><img src="content/about_bt_careers.jpg" alt="The patient took the prescibed medication" class="project-image-normal" /></center>
+		<center><a href="Career.php"><img src="content/about_bt_careers.jpg" alt="The patient took the prescibed medication" class="project-image-normal" /></a></center>
 	</div>
 </div><!-- This is the end of the career button and its content. -->
 
