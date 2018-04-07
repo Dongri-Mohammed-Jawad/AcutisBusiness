@@ -9,9 +9,9 @@
 				<div class="subheader2 menus">
 					<ul>
 						<li><a href="Client.php" class="text-skyblue mobile-font-2">Client Support</a></li>
-						<li><a href="#" class="mobile-font-2">i-Acutis</a></li>
-						<li><a href="OneLessThing.php" class="mobile-font-2">Orders Supplies & materials </a></li>
-						<li><a href="OneLessThing.php" class="mobile-font-2">Make a Payment</a></li>
+						<li><a href="https://acutis.labnexus.net" class="mobile-font-2">i-Acutis</a></li>
+						<li><a href="Order-Supply.php" class="mobile-font-2">Orders Supplies & materials </a></li>
+						<li><a href="index.php" class="mobile-font-2">Make a Payment</a></li>
 					</ul>				
 				</div>
 			</div>
@@ -34,13 +34,13 @@
 					<option value="About-us.php">About Us</option>
 					<option value="Testing.php">Testing</option>
 					<option value="QuickReferrence.php">Quick Reference</option>
-					<option value="OneLessThing.php">Our Services</option>
+					<option value="QuickReferrence.php">Our Services</option>
 					<option value="Client.php">Client Support</option>
 					<option value="News-Articles.php">News & Articles</option>
 					<option value="Acu-Citizen.php">Acu-Citizen</option>
 					<option value="Career.php">Careers</option>
 					<option value="Contact-us.php">Contact Us</option>
-					<option value="OneLessThing.php">Order Supplies and Materials</option>
+					<option value="Order-Supply.php">Order Supplies and Materials</option>
 				</select>
 				</center>
 			</div>
@@ -58,7 +58,7 @@
 					<li><a href="Testing.php">Testing</a>
 						<ul class="sub-menu">
 							<li><a href="QuickReferrence.php">Quick Reference</a></li>
-							<li><a href="OneLessThing.php">Our Services</a></li>
+							<li><a href="Order-Supply.php">Our Services</a></li>
 							<li><a href="Client.php">Client Support</a></li>
 						</ul>
 					</li>

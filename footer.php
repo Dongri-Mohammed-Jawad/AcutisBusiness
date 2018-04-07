@@ -20,7 +20,7 @@
 		<div class="footer-help text-green">
 			<b class="text-light-dark-green">Client Info</b>
 			
-				<a href="#"><p class="text-normal">i-Acutis</p></a>
+				<a href="https://acutis.labnexus.net"><p class="text-normal">i-Acutis</p></a>
 				<a href="#"><p class="text-normal">Order Supplies & Materials</p></a>	
 				<a href="#"><p class="text-normal">Make a Payment</p>	</a>
 					<br><br>
