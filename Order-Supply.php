@@ -1,6 +1,41 @@
 <html>
 <head>
 	<?php include("head.php"); ?>
+	<script>
+function validation()
+{
+
+var a=document.order.name.value;
+
+if(a=="")
+{
+alert("please enter name");
+document.order.name.focus();
+return false;
+}
+var b=document.order.email.value;
+if(b=="")
+{
+alert("Enter vaild email id");
+document.order.email.focus();
+return false;
+}
+var c=document.order.phone.value;
+if(c=="")
+{
+alert("Enter valid phone number");
+document.order.phone.focus();
+return false;
+}
+var d=document.order.date.value;
+if(d=="")
+{
+alert("Enter valid date");
+document.order.date.focus();
+return false;
+}
+}
+</script>
 </head>
 <body>
 <?php include("new-header.php"); ?>
@@ -22,15 +57,15 @@
 		<div class="inner-form">
 
 		<h4><img src="images/calendar.png" class="mobile-width-auto30" alt="Medication monitoring laboratory or lab,Prescription drug monitoring laboratory or lab,toxicology lab" title="drug testing lab,Pharmacogenetics testing,Confirmation drug testing,Patient prescription monitoring">Order supplies</h4>
-		<form id="contact-form2" action="#">
-			<div class="inputs">
-				<input name="name" id="name" type="text" data-value="Full Name" class="border-small">
-				<input name="mail" id="mail" type="text" data-value="E-Mail Address">
-				<input name="phone" id="phone" type="text" data-value="Phone Number">
-	       		<input name="date" id="date" type="text" data-value="DD/MM/YYYY 00:00">
+				<form name="order" method="post" action="OrdersSend.php">
+			   <div class="inputs">
+				<input name="name"  id="name"    type=""   class="border-small"  placeholder="Name*" required autofocus>
+				<input name="email"  id="email"  type="email"   placeholder="Email*"  required autofocus>
+				<input name="phone" id="phone"   type="number"   placeholder="Phone*"   required autofocus>
+	       		<input name="date"  id="date"    type="datetime-local"   placeholder="DATE*"   required autofocus>
 	        </div>
 
-			<input id="submit_contact2" type="submit" value="ORDER">
+			<input type="submit" name="join" value="ORDER" class="join-btn"  onclick="validation()"/>
 			<div id="msg2" class="message"></div>
 		</form>
 		

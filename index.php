@@ -79,13 +79,42 @@
 		<h2 class="special-text no-border mobile-font-4">Connect With Us</h2>
 		<p><img src="content/down-arrow.png" alt="relevant reports" class="width-10" /></p>
 		<p>Sign Up to receive updates and to get involved.</p>
-		<input type="text" class="contact-inputs" placeholder="First Name*" />
-		<input type="text" class="contact-inputs" placeholder="Last Name*" />
-		<input type="text" class="contact-inputs" placeholder="Email*" />
-		<p><img src="content/homepage_bt_join_un.jpg" alt="lab for clinician’s" class="contact-joinus project-image-vvsmall"/></p>
-	</center>
-</div><!-- This is the end of the Connect with us Section. -->
-
+		<form name="joinform" method="post" action="JoinUsSend.php"  >
+			<table >
+				<td><input style="width:100%;padding:2.5%;font-size:18px;background:white;border:1px sold white;" type="" name="FirstName" id="FirstName"   required placeholder="First Name*" ></td><td><input style="width:100%;padding:2.5%;font-size:18px;background:white;border:1px sold white;" type=""   name="LastName"   id="LastName" required placeholder="Last Name" /></td><td><input style="width:100%;padding:2.5%;font-size:18px;background:white;border:1px sold white;" type="email"    name="Email"        id="Email"  required placeholder="Email*" /></td>
+			</table>
+			<br>
+			<input type="submit" name="join" value="Join Us" class="join-btn"  onclick="validation()"/>
+		</form>
+	 </center>
+</div>
+<!-- This is the end of the Connect with us Section. -->
+<script>
+function validation()
+{
+var a=document.joinform.FirstName.value;
+if(a=="")
+{
+alert("Enter FirstName");
+document.joinform.FirstName.focus();
+return false;
+}
+var b=document.joinform.LastName.value;
+if(b=="")
+{
+alert("Enter LastName");
+document.joinform.LastName.focus();
+return false;
+}
+var c=document.joinform.Email.value;
+if(c=="")
+{
+alert("Enter valid Email");
+document.joinform.Email.focus();
+return false;
+}
+}
+</script>
 <?php include("footer.php"); ?>
 <?php include("Bottom_Js.php"); ?>
 

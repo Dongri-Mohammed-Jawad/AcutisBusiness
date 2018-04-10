@@ -68,7 +68,6 @@
 {
 	text-indent:30px;
 }
-
 .listed-help p
 {
 	background-image:url("../content/careers_arrow_hor.jpg");
@@ -92,13 +91,34 @@
 {
 	display:none;
 }
-
+.join-btn
+{
+	width:auto;
+	padding:2.5%;
+	font-size:19px;
+	background:#EF185A;
+	border:1px solid #EF185A;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+}
 @media only screen and (min-device-width:360px) and (max-device-width:640px) and (orientation:portrait)
 {
 	.banner-caption
 	{
 		top:350px;
 	}
+.join-btn
+{
+	width:auto;
+	padding:5%;
+	font-size:4rem;
+	background:#EF185A;
+	border:1px solid #EF185A;
+	text-align:center;
+	color:white;
+	font-weight:bold;
+}
 	.banner-caption h1
 	{
 		font-size:5rem;

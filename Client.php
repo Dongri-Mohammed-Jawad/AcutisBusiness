@@ -32,7 +32,7 @@
 		<center><img src="content/about_green_dots.jpg" alt="New Jersey, drug testing cutoff levels" class="project-image-large" /></center>
 		<p class="text-dark-green device-center">Order new tests and make inquiries.</p><br>
 		<p>Use this Password - protected page to log into your account and access your Patient's Information.</p>
-		<center><img src="content/homepage_bt_sign_in.jpg" alt="tbm management" class="project-image-small" /></center>
+		<center><a href="https://acutis.labnexus.net"><img src="content/homepage_bt_sign_in.jpg" alt="tbm management" class="project-image-small" /></a></center>
 	</div>
 </div><!-- This is the end of the first section of image and content. -->
 
@@ -41,7 +41,7 @@
 		<h2 class="text-dark-green float-right mobile-font-4 device-center"><span class="text-light-green">Make a </span>Payment.</h2>
 		<center><img src="content/about_green_dots.jpg" alt="Pennsylvania, ddi testing" class="project-image-large float-right" /></center>
 		<p class="text-dark-green device-center float-right">If you are a patient, pay your bill here.</p>
-		<center><img src="content/homepage_bt_pay_here.jpg" alt="Connecticut, Massachusetts, cut off levels for drug testing" class="project-image-small float-right" /></center>
+		<center><a href="https://secure.cardknox.com/acutisdiagnostics-patient"><img src="content/homepage_bt_pay_here.jpg" alt="Connecticut, Massachusetts, cut off levels for drug testing" class="project-image-small float-right" /></a></center>
 		<p class="device-center float-right padding-left-10">
 			If you receive a check from your insurance company, simply endorse it and mail it to us.<br>
 			Should you receive an invoice from Acutis, there is no need to contact your doctor, please feel free to contact us directly.
@@ -52,7 +52,7 @@
 		<p class="float-right device-center text-light-green">
 			If you are Physician or Practice, Pay your bill here
 		</p>
-		<center><img src="content/homepage_bt_pay_here.jpg" alt="laboratory testing services to enable physicians" class="project-image-small float-right" /></center>
+		<center><a href="https://secure.cardknox.com/acutisdiagnostics-practice"><img src="content/homepage_bt_pay_here.jpg" alt="laboratory testing services to enable physicians" class="project-image-small float-right" /></a></center>
 	</div>
 	<div class="dez-col-35 padding-5 no-shadow">
 		<center><img src="content/client_make_payment.jpg" alt="Virginia substance abuse rehabilitation facilities" class="project-image-normal" /></center>
@@ -94,7 +94,7 @@
 				</center>
 			</div>
 		</div><!-- This is the 100% end of the FedEx and UPs Image and content -->
-		<center><img src="content/homepage_bt_pay_order.jpg" alt="Fellowship New York Florida Workplace drug test" class="padding-top-2 project-image-small" /></center>
+		<center><a href="Order-Supply.php"><img src="content/homepage_bt_pay_order.jpg" alt="Fellowship New York Florida Workplace drug test" class="padding-top-2 project-image-small" /></a></center>
 	</div><!-- This is the end of the right side content of the Supplies & Materials --> 
 </div><!-- This is the end of the Supplies and Materials Here. -->
 

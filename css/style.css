@@ -218,7 +218,7 @@ border-top-left-radius: 10px;
   float: left;
 }
 
-.inputs input[type="text"] {
+.inputs input {
   float: left;
   padding: 9px 9px 9px;
   width: 278px;

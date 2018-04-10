@@ -1,0 +1,115 @@
+@font-face
+{
+	font-family: calculator;
+	src:url("../Fonts/8BitOperator/8BitOperator/8BitOperator.ttf");
+}
+@font-face
+{
+	font-family: chocolate;
+	src:url("../Fonts/AfterNight/After_Night.ttf");
+}
+@font-face
+{
+	font-family: Persian Sword;
+	src:url("../Fonts/alpha_kufi_regular/alpha_kufi_regular.ttf");
+}
+@font-face
+{
+	font-family: Sweet Cartoon;
+	src:url("../Fonts/Avdira/Avdira_R.otf");
+}
+@font-face
+{
+	font-family: sword;
+	src:url("../Fonts/Be_safe/Edward.ttf");
+}
+@font-face
+{
+	font-family: Arabic English;
+	src:url("../Fonts/Carolingia/dorcla.ttf");
+}
+
+
+/* ----------------------------------------- Creating the Font Family From Here. */
+.font-calculator
+{
+	font-family:calculator;
+}
+.font-chocolate
+{
+	font-family:chocolate;
+}
+.font-persiansword
+{
+	font-family:Persian Sword;
+}
+.font-sweetcartoon
+{
+	font-family:Sweet Cartoon;
+}
+.font-sword
+{
+	font-family:Sword;
+}
+.font-arabicenglish
+{
+	font-family:Arabic English;
+}
+.font-microsoft
+{
+	font-family:Microsoft Sans Serif;
+}
+.font-palatino
+{
+	font-family:Palatino Linotype;
+}
+.font-arial
+{
+	font-family:arial regular;
+}
+.font-segoescript
+{
+	font-family:segor script;
+}
+.font-segoeprint
+{
+	font-family:segoe print;
+}
+.font-segoe
+{
+	font-family:segoe ui;
+}
+.font-symbol
+{
+	font-family:symbol;
+}
+.font-tahoma
+{
+	font-family:tahoma;
+}
+.font-timesroman
+{
+	font-family:Times New Roman;
+}
+.font-verdana
+{
+	font-family:verdana;
+}
+.font-wingdings
+{
+	font-family:wingdings;
+}
+.font-webdings
+{
+	font-family:webdings;
+}
+.font-lucida
+{
+	font-family:Lucida Sans Unicode;
+}
+.font-georgia
+{
+	font-family:georgia;
+}
+
+

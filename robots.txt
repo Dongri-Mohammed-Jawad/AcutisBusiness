@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+SITEMAP:http://acutisdiagnostics.crammaze.com/sitemap.txt

@@ -119,8 +119,10 @@
 	</div>
 </div>
 		<div class="dez-col-100 background-soap-color no-shadow">
-				<center class="padding-small"><img src="content/about_img_clia.jpg" alt="Pharmacogenetic test" class="clia" />
-				<img src="content/about_img_NY-HEALTH.jpg" alt="pharmacogenetic testing" /></center>
+				<center class="padding-small">
+				<img src="content/about_img_clia.jpg" alt="Pharmacogenetic test" class="cliaa" style="width:7.7%;" />
+				<img src="content/about_img_NY-HEALTH.jpg" alt="pharmacogenetic testing" />
+				</center>
 		</div>
 
 <?php include("footer.php"); ?>

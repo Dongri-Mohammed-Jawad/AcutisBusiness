@@ -19,6 +19,7 @@
 	<link rel="stylesheet" href="css/dez-padding.css" />
 	<link rel="stylesheet" href="css/helper.css" />
 	<link rel="stylesheet" href="css/dez-fontsize.css" />
+	<link rel="stylesheet" href="css/dez-fontstyle.css" />
 	<link rel="stylesheet" href="css/Dez-Banner.css" />
 	<link rel="stylesheet" href="css/Dez-Client.css" />
 	<link rel="stylesheet" href="css/fontstyle.css" />

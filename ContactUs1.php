@@ -4,32 +4,15 @@
 <script>
 function validation()
 {
-	alert("abc");
-var a=document.contact.FirstName.value;
+var a=document.contact.Name.value;
 if(a=="")
 {
 alert("Enter All Input Fields.");
-document.contact.FirstName.focus();
+document.contact.Name.focus();
 return false;
 }
-{
-var b=document.contact.LastName.value;
+var b=document.contact.Email.value;
 if(b=="")
-{
-alert("Enter All Input Fields.");
-document.contact.LastName.focus();
-return false;
-}
-{
-var c=document.contact.PracticeName.value;
-if(c=="")
-{
-alert("Enter All Input Fields.");
-document.contact.PracticeName.focus();
-return false;
-}
-var d=document.contact.Email.value;
-if(d=="")
 {
 alert("Enter valid Email");
 document.contact.Email.focus();
@@ -76,18 +59,18 @@ return false;
 	</div>
 </div><!-- This is the end of the Question and answer content with image on the right side. -->
 
-<center>
+
  <form name="contact" id="f1" action="ContactUsSend.php"  method="post" >
- 
-	<input type=""    name="FirstName" required placeholder="First Name*" class="project-input font-20 padding-1 margin-top-1"><br>
-	<input type=""    name="LastName" required placeholder="Last Name*" class="project-input font-20 padding-1 margin-top-1"><br>
-	<input type=""    name="PracticeName" required placeholder="Practice Name*" class="project-input font-20 padding-1 margin-top-1"><br>
-	<input type="email" name="Email" required placeholder="Email*" class="project-input font-20 padding-1 margin-top-1"><br>
-	<input type="tel" pattern="^\+(?:[0-9]●?){6,14}[0-9]$"  name="Phone" required placeholder="Phone" class="project-input font-20 padding-1 margin-top-1"><br>
-	<textarea placeholder="Your Message Here.."  name="Message" class="project-textarea margin-top-1 font-22" required></textarea><br>
+ <center>
+	<input type="" name="Name" required placeholder="First Name*" class="project-input font-20 padding-1 margin-top-1"><br>
+	<input type="" name="Name" required placeholder="Last Name*" class="project-input font-20 padding-1 margin-top-1"><br>
+	<input type="" name="Name" required placeholder="Practice Name*" class="project-input font-20 padding-1 margin-top-1"><br>
+	<input type="" name="Name" required placeholder="Email*" class="project-input font-20 padding-1 margin-top-1"><br>
+	<input type="" name="Name" required placeholder="Phone" class="project-input font-20 padding-1 margin-top-1"><br>
+	<textarea placeholder="Your Message Here.." class="project-textarea margin-top-1 font-22" required></textarea><br>
 	<input type="submit" value="  Send Your Message" onclick="validation()" class="join-btn margin-top-5 "/> 
+  </center>
   </form>
-   </center>
 <?php include("footer.php"); ?>
 <?php include("Bottom_Js.php"); ?>
 </body>

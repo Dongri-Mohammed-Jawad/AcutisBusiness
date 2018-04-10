@@ -49,12 +49,12 @@
 </div><!-- This is the end of the content with images main div. -->
 
 <div class="dez-col-100 no-shadow">
-	<h2 class="padding-left-10 device-center mobile-font-5 text-dark-green">Our 728 Patient <span class="text-light-green">Report</span></h2>
+	<h1 class="padding-left-10 device-center mobile-font-5 text-dark-green">Our 728 Patient <span class="text-light-green">Report</span></h1>
 	<center><img src="content/testing_img_report (1).jpg" alt="Oral fluid testing laboratory or lab" class="width-100" /</center>
 </div><!-- This is the end of the content with full images of 728 patient section main div. -->
 
 <div class="dez-col-100 no-shadow">
-	<h2 class="padding-left-10 device-center mobile-font-5 text-dark-green">Triple Checked <span class="text-light-green">for best results</span></h2>
+	<h1 class="padding-left-10 device-center mobile-font-5 text-dark-green">Triple Checked <span class="text-light-green">for best results</span></h1>
 	<p class="padding-left-10 device-center">
 		Our tests results are based on extensive analysis of the right combination of parent and metabolites.<br>
 		Each result is then only released after a <span class="special-text no-border">rigorous triple review process.</span>
