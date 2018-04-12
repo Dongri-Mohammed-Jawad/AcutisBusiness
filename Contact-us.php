@@ -59,10 +59,10 @@ return false;
 </div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
 
 <div class="dez-col-100 no-shadow">
-	<h2 class="padding-left-10 device-center text-light-green">For General & Billing Inquiries</h2>
-	<h2 class="padding-left-10 device-center">
+	<h1 class="padding-left-10 device-center text-light-green">For General & Billing Inquiries</h1>
+	<h1 class="padding-left-10 device-center">
 	<span class="text-dark-green">Call Our Main Line 1-844-522-8847</span>
-	</h2>
+	</h1>
 </div><!-- this is the end of the GENERAL & BILLING INQUIRy. -->
 
 <div class="dez-col-100 no-shadow">
@@ -84,7 +84,7 @@ return false;
 	<input type=""    name="PracticeName" required placeholder="Practice Name*" class="project-input font-20 padding-1 margin-top-1"><br>
 	<input type="email" name="Email" required placeholder="Email*" class="project-input font-20 padding-1 margin-top-1"><br>
 	<input type="tel" pattern="^\+(?:[0-9]●?){6,14}[0-9]$"  name="Phone" required placeholder="Phone" class="project-input font-20 padding-1 margin-top-1"><br>
-	<textarea placeholder="Your Message Here.."  name="Message" class="project-textarea margin-top-1 font-22" required></textarea><br>
+	<textarea placeholder="Your Message Here.."  name="Message" class="project-textarea text-light-green margin-top-1 font-22 padding-1" required></textarea><br>
 	<input type="submit" value="  Send Your Message" onclick="validation()" class="join-btn margin-top-5 "/> 
   </form>
    </center>

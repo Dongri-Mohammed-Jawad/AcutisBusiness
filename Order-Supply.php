@@ -1,6 +1,15 @@
 <html>
 <head>
 	<?php include("head.php"); ?>
+ <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script>
+  $(function() {
+    $( "#datepicker" ).datepicker({ minDate: 0 });
+  });
+  </script>
 	<script>
 function validation()
 {
@@ -61,8 +70,8 @@ return false;
 			   <div class="inputs">
 				<input name="name"  id="name"    type=""   class="border-small"  placeholder="Name*" required autofocus>
 				<input name="email"  id="email"  type="email"   placeholder="Email*"  required autofocus>
-				<input name="phone" id="phone"   type="number"   placeholder="Phone*"   required autofocus>
-	       		<input name="date"  id="date"    type="datetime-local"   placeholder="DATE*"   required autofocus>
+				<input name="phone" id="phone"   type="tel"  pattern="^\+(?:[0-9]●?){6,14}[0-9]$"  placeholder="Phone no with country code*"   required autofocus>
+	       		<input name="date"  id="datepicker"    type="date"   placeholder="DATE*"   required autofocus>
 	        </div>
 
 			<input type="submit" name="join" value="ORDER" class="join-btn"  onclick="validation()"/>

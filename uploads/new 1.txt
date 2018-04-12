@@ -1,0 +1,40 @@
+<html>
+<script type="text/javascript">
+$(document).ready(function(){  
+	
+   
+    $("#search").blur(function(){  
+      	 var i="fetch/employee/details?search="+$("#search").val();
+    	  var thead="<table class='w3-table'style='width:200%'><tr> <th><b>ID</b></th> <th></b>Name</b></th> <th><b>Amount Taken</b></th> <th><b>Start</b></th><th><b>End</b></th><th><b>Interval</b></th></tr>";
+    	  var tdata=""; 
+    	  var all="";
+    	 $.ajax({
+		        type: "GET",
+		        url: i,
+		        contentType: "application/json; charset=utf-8",  
+		        dataType: "json",
+	        	success: function (data) {   
+	        		alert(data.custmerdetails[0].customerId); 
+	        		 for(var i=0;i<data.custmerdetails.length;i++){ 
+	        		  tdata="<tr><td>"+data.custmerdetails[i].customerId+"</td><td>"+data.custmerdetails[i].customerName+"</td><td>"+data.custmerdetails[i].amounttaken+"</td><td>"+data.custmerdetails[i].datetaken+"</td><td>"+data.custmerdetails[i].percentage+"</td><td>"+data.custmerdetails[i].intervaltime+"</td></tr>";
+	        		 all=all+tdata;  
+	        		} 
+	        		 
+	        		 all=thead+all+"</table>";
+	        		 $("#custdetails_div").html(all);
+	        		
+	            },
+	          error: function (xmlHttpRequest, textStatus, errorThrown) {
+	        	    alert("*error*");
+	          console.log(xmlHttpRequest.responseText);
+	          console.log(textStatus);
+	          console.log(errorThrown);
+	          }
+		 });
+
+    	
+    });  
+});  
+</script>
+</html>
+var phone=^\+(?:[0-9]●?){6,14}[0-9]$;

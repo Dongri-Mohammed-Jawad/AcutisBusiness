@@ -43,15 +43,31 @@
 .project-input
 {
 	border:0px solid white;
-	border-bottom:2px solid #000;
+	border-bottom:2px solid #E4E3DD;
 	color:#006c6e;
+	width:75%;
+	-webkit-transition:width 1s;
+	transition:width 1s;
+}
+.project-input:hover
+{
 	width:80%;
+	border-bottom:1px solid #E4E3DD;
+}
+.radio
+{
+	width:30px;
+	height:20px;
+}
+.vertical-middle
+{
+	vertical-align:middle;
 }
 .project-textarea
 {
 	width:65%;
 	border:1px solid black;
-	height:100px;
+	height:150px;
 }
 .contact-inputs
 {
@@ -94,14 +110,30 @@
 .join-btn
 {
 	width:auto;
-	padding:2.5%;
+	padding:1%;
+	padding-left:2.5%;
+	padding-right:2.5%;
 	font-size:19px;
 	background:#EF185A;
 	border:1px solid #EF185A;
 	text-align:center;
 	color:white;
 	font-weight:bold;
+	border-radius:4px;
+	-webkit-transition:background 1s;
 }
+.join-btn:hover
+{
+	background:#d40250;
+}
+	.index-contact
+	{
+		width:25%;
+		margin-left:1%;
+		padding:1%;
+		font-size:1rem;
+	}
+
 @media only screen and (min-device-width:360px) and (max-device-width:640px) and (orientation:portrait)
 {
 	.banner-caption
@@ -149,14 +181,17 @@
 	.project-input
 	{
 		font-size:3.5rem;
-		padding:5%;
-		width:90%;
+		padding:4%;
+		width:95%;
+		margin-top:5%;
+		margin-bottom:5%;
 	}
 	.project-textarea
 	{
 		width:90%;
 		font-size:2.8rem;
-		height:250px;
+		margin-top:5%;
+		height:300px;
 	}
 	.mobile-font-4
 	{
@@ -271,12 +306,11 @@
 	.listed
 	{
 		list-style-type:none;
-		background:url("../content/careers_arrow_hor.jpg");
+		background:url("../content/right-arrow.png");
 		background-repeat:no-repeat;
 		background-position:25% 60%;
 		float:left;
 		font-size:4rem;
-		
 	}
 	.listed-right
 	{
@@ -331,5 +365,26 @@
 	{
 		width:600px;
 	}
-	
+	.index-contact
+	{
+		width:100%;
+		margin-top:3%;
+		padding:5%;
+		font-size:3rem;
+	}
+	.myfile
+	{
+		padding:5%;
+		width:50%;
+		font-size:4rem;
+	}
+	.radio
+	{
+		width:60px;
+		height:100px;
+	}
+	.mobile-margin-left-15
+	{
+		margin-left:15%;
+	}
 }

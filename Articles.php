@@ -50,3 +50,4 @@ The opioid crisis is critically important to healthcare providers today. The CDC
 			<a href="Article5.php"><p class="special-text">Read More...</p></a>
 	</div>
 </div><!-- This is the end of the first five articles. -->
+<?php include("footer.php"); ?>

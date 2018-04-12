@@ -122,3 +122,43 @@
 [10-Apr-2018 06:39:19 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
 [10-Apr-2018 06:39:53 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
 [10-Apr-2018 06:39:53 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[10-Apr-2018 08:01:27 UTC] PHP Notice:  Undefined variable: attachment in /home/crammaze1/acutisdiagnostics/mail.php on line 26
+[10-Apr-2018 08:05:16 UTC] PHP Notice:  Undefined variable: attachment in /home/crammaze1/acutisdiagnostics/mail.php on line 26
+[11-Apr-2018 03:33:40 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/Article1.php on line 54
+[11-Apr-2018 03:33:40 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/Article1.php on line 54
+[11-Apr-2018 03:33:47 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/Article2.php on line 57
+[11-Apr-2018 03:33:47 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/Article2.php on line 57
+[11-Apr-2018 03:33:53 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/Article3.php on line 64
+[11-Apr-2018 03:33:53 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/Article3.php on line 64
+[11-Apr-2018 03:33:59 UTC] PHP Warning:  include(Footer.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/Article1.php on line 54
+[11-Apr-2018 03:33:59 UTC] PHP Warning:  include(): Failed opening 'Footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/Article1.php on line 54
+[11-Apr-2018 04:44:23 UTC] PHP Notice:  Undefined variable: message in /home/crammaze1/acutisdiagnostics/OrdersSend.php on line 20
+[11-Apr-2018 04:44:23 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 04:44:23 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 05:05:34 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 05:05:34 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 08:17:06 UTC] PHP Warning:  require(phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/careertest.php on line 2
+[11-Apr-2018 08:17:06 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/careertest.php on line 2
+[11-Apr-2018 08:17:37 UTC] PHP Warning:  require(phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/careertest.php on line 2
+[11-Apr-2018 08:17:37 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/careertest.php on line 2
+[11-Apr-2018 08:18:19 UTC] PHP Warning:  require(phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/careertest.php on line 2
+[11-Apr-2018 08:18:19 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/careertest.php on line 2
+[11-Apr-2018 08:19:25 UTC] PHP Warning:  require(phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/careertest.php on line 3
+[11-Apr-2018 08:19:25 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/PHPMailer.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/careertest.php on line 3
+[11-Apr-2018 08:21:12 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/crammaze1/acutisdiagnostics/careertest.php on line 22
+[11-Apr-2018 08:25:10 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/crammaze1/acutisdiagnostics/careertest.php on line 22
+[11-Apr-2018 08:25:55 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/crammaze1/acutisdiagnostics/careertest.php on line 23
+[11-Apr-2018 08:27:23 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/crammaze1/acutisdiagnostics/careertest.php on line 26
+[11-Apr-2018 08:28:12 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/crammaze1/acutisdiagnostics/careertest.php on line 26
+[11-Apr-2018 10:39:44 UTC] PHP Notice:  Undefined variable: file_path in /home/crammaze1/acutisdiagnostics/careertest.php on line 36
+[11-Apr-2018 10:39:44 UTC] PHP Notice:  Undefined variable: to in /home/crammaze1/acutisdiagnostics/careertest.php on line 38
+[11-Apr-2018 10:39:45 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 10:39:45 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 10:42:33 UTC] PHP Notice:  Undefined variable: file_path in /home/crammaze1/acutisdiagnostics/careertest.php on line 37
+[11-Apr-2018 10:47:25 UTC] PHP Notice:  Undefined variable: file_path in /home/crammaze1/acutisdiagnostics/careertest.php on line 37
+[11-Apr-2018 10:51:44 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 10:51:44 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 11:05:07 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 11:05:07 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 11:27:12 UTC] PHP Warning:  include(scripts.php): failed to open stream: No such file or directory in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
+[11-Apr-2018 11:27:12 UTC] PHP Warning:  include(): Failed opening 'scripts.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/crammaze1/acutisdiagnostics/contactusthankyou.php on line 21
