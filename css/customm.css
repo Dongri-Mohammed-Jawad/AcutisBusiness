@@ -1,3 +1,80 @@
+
+
+.landing-img
+{
+	height:135%;
+}
+.landing-heading
+{
+	font-size:62pt;
+	font-family:Roboto Regular;
+}
+.landing-description
+{
+	width:75%;font-size:15pt; font-family:arial regular;line-height:32pt;color:#006c6e;letter-spacing:0.5px;
+}
+.working-hard
+{
+	font-size:14pt;line-height:24pt;
+}
+.font-14pt
+{
+	font-size:14pt;
+}
+.click-act
+{
+	font-family:Roboto Regular; font-size:42pt;
+}
+.i-acutis-img
+{
+	width:45%;margin-top:2.5%;
+}
+.margin-top-minus-3
+{
+	margin-top:-3%;
+}
+.margin-top-minus-5
+{
+	margin-top:-5%;
+}
+.margin-top-0
+{
+	margin-top:0%;
+}
+.margin-top-minus-12
+{
+	margin-top:-12%;
+}
+.margin-top-minus-onehalf
+{
+	margin-top:-1.5%;
+}
+.order-btn
+{
+	width:45%;margin-top:2.5%;
+}
+.connect-us
+{
+	font-size:28pt; color:#dc0d57;
+}
+.connect-data-img
+{
+	width:1.5%;margin-top:-1.5%;
+}
+.connect-data
+{
+	font-family:Arial Regular; font-size:22pt;color:#006c6e;margin-top:-1.5%;
+}
+
+
+
+
+
+
+
+
+
+
 .availability
 {
 	color:#005f60;font-size:23px;text-align:center;
@@ -13,6 +90,10 @@
 		width:100%;
 		text-align:center;
 		margin-top:15px;
+	}
+	.device-font-10
+	{
+		font-size:40pt;
 	}
 	.social-area 
 	{

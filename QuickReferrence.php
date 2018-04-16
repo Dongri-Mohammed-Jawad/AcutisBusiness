@@ -16,7 +16,7 @@
 </div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
 
 <div class="dez-col-100 text-dark-green no-shadow">
-	<h2 class="device-center padding-left-10 mobile-font-4"><span class="text-light-green">Guide for</span> <b>Clinical Toxicology</b></h2>
+	<h1 class="device-center padding-left-10 mobile-font-4"><span class="text-light-green">Guide for</span> <b>Clinical Toxicology</b></h1>
 	<h2 class=" padding-left-10 device-center mobile-font-4"><span class="text-light-green">Possible Sources of</span> <b>true & false positives on in-offices POC Tests</b></h2>
 	<center><img src="content/quick_refererence_img_1.jpg" alt="patient testing" class="width-90 " /></center>
 </div><!-- This is the end of the Guide for Clinical Toxicology here only. -->

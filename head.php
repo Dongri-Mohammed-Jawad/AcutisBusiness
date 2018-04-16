@@ -1,5 +1,4 @@
 	<title>Acutis Diagnostics </title>
-	
 	<link rel="shortcut icon" href="images/anchor-info.png" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/zebra.css" type="text/css" media="screen">
@@ -23,3 +22,4 @@
 	<link rel="stylesheet" href="css/Dez-Banner.css" />
 	<link rel="stylesheet" href="css/Dez-Client.css" />
 	<link rel="stylesheet" href="css/fontstyle.css" />
+	<link rel="stylesheet" href="css/landing.css" />

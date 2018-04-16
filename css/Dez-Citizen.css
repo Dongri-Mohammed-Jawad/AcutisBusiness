@@ -1,0 +1,34 @@
+@font-face
+{
+	font-family: Roboto;
+	src:url("../Font/Roboto-Regular.ttf");
+}
+.roboto-regular
+{
+	font-family:Roboto;
+}
+/*------------------------------------------- */
+@font-face
+{
+	font-family: Roboto Light;
+	src:url("../Font/Roboto-Light.ttf");
+}
+.roboto-light
+{
+	font-family:Roboto Light;
+}
+/*------------------------------------------- */
+.arial-regular
+{
+	font-family:Arial Regular;
+}
+.arial-bold
+{
+	font-family:Arial Bold;
+}
+
+
+
+
+
+

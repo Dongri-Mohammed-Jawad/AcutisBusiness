@@ -6,8 +6,8 @@
 			<img src="images/acutis.png" class="mobile-width-auto50" alt="major insurances,in network laboratories,drug test algorithms,drug test protocols" title="Acutis Diagnostics : quality control,toxicology scientists,accurate results,fast resuts,quick results,strategic planning " />
 		</div><!-- This is the End of the logo section in the footer -->
 		<div class="footer-menu">
-			<b class="text-green text-normal text-dark-green padding-2">Menu</b>
-			<ul class="text-normal">
+			<b class="text-normal text-light-green padding-2">Menu</b>
+			<ul class="text-normal text-light-green">
 				<li class="padding-2"><a href="About-us.php">About Us</a></li>
 				<li class="padding-2"><a href="Testing.php">Testing</a></li>
 				<li class="padding-2"><a href="QuickReferrence.php">Quick Reference</a></li>
@@ -17,12 +17,12 @@
 				<li class="padding-2"><a href="Contact-us.php">Contact</a></li>
 			</ul>
 		</div><!-- This is the end of the menu section n the footer. -->
-		<div class="footer-help text-green">
-			<b class="text-light-dark-green">Client Info</b>
+		<div class="footer-help ">
+			<b class="text-light-green text-normal ">Client Info</b>
 			
 				<a href="https://acutis.labnexus.net"><p class="text-normal">i-Acutis</p></a>
-				<a href="#"><p class="text-normal">Order Supplies & Materials</p></a>	
-				<a href="#"><p class="text-normal">Make a Payment</p>	</a>
+				<a href="Order-Supply.php"><p class="text-normal">Order Supplies & Materials</p></a>	
+				<a href="Order-Supply.php"><p class="text-normal">Make a Payment</p>	</a>
 					<br><br>
 				<div class="footer-icons">
 					<a href=""><img src="icons/facebook-logo.png" class="mobile-width-auto20" alt="Senior Scientists ,Point of care drug test,Workplace drug test,Pharmacogenetic testing" title="are patients taking illicit drugs" style="width:auto;" /></a>
@@ -32,7 +32,7 @@
 				</div>
 		</div><!-- This is the end of the help section in the footer.  -->
 		<div class="footer-contact">
-			<b class="text-normal text-dark-green">Acutis Diagnostics</b>
+			<b class="text-normal text-light-green">Acutis Diagnostics</b>
 			<p class="text-normal text-green">
 			728 Larkfield Rd.<br>
 			East NorthPort<br>

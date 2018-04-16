@@ -33,7 +33,10 @@ p
 	font-size:20px;
 	font-family:Arial regular;
 }
-
+.letter-spacing-1
+{
+	letter-spacing:1px;
+}
 .background-red
 {
 	background:red;
@@ -41,8 +44,9 @@ p
 .special-text
 {
 	color:#dc0d57;
+	letter-spacing:1px;
 	border-bottom:2px solid #D40250;
-	font-family:Arial Bold;
+	font-family:Arial Regular;
 }
 .no-border
 {
@@ -92,10 +96,10 @@ p
 	}
 	.project-image-large,.project-image-normal,.project-image-small,.project-image-vsmall
 	{
-		width:75%;
+		width:45%;
 	}
 	.mobile-font-5
 	{
-		font-size:5rem;
+		font-size:3rem;
 	}
 }

@@ -1,0 +1,232 @@
+/*------------------------------------------------------- */
+/*------------------------------------------------------- */
+@font-face
+{
+	font-family:Roboto Regular;
+	src:url('../font/Roboto-Regular.ttf');
+}
+@font-face
+{
+	font-family:Roboto Light;
+	src:url('../font/Roboto-Light.ttf');
+}
+
+/*------------------------------------------------------- */
+/*------------------------------------------------------- */
+
+.mini-header
+{
+	background:#69b0ae;
+	position:absolute;
+	top:0%;
+	left:0%;
+	width:100%;
+	color:white;
+}
+.mini-header .mobile-number
+{
+	padding-left:10%;
+	font-size:17px;
+	font-family:Arial;
+}
+.banner
+{
+	width:100%;
+	height:135%;
+}
+.main-body
+{
+	position:absolute;
+	top:140%;
+	width:99%;
+}
+.new-website
+{
+	width:100%;
+}
+.new-website .new-website-heading
+{
+	text-align:center;
+	color:#d40250;
+	font-size:22pt;
+	font-family:Arial Regular;
+}
+.new-website .new-website-content
+{
+	text-align:center;
+	font-size:Arial Regular;
+	color:#555453;
+	font-size:16pt;
+	line-height:24pt;
+}
+.color-red
+{
+	color:#d40250;
+	border-bottom:2px solid #d40250;
+}
+.click-act
+{
+	width:100%;
+	font-family:
+}
+.click-act h1
+{
+	padding-left:10%;
+	padding-top:5%;
+	font-size:42pt;
+	line-height:30pt;
+}
+.click-act-dark-green
+{
+	font-family:Roboto Light;
+	color:#006c6e;
+}
+.click-act-light-green
+{
+	color:#69b0ae;
+	font-family:Roboto Regular;
+}
+.three-columns
+{
+	width:90%;
+	padding-left:10%;
+	padding-top:1.5%;
+	padding-bottom:1.5%;
+}
+.first-column,.second-column,.third-column
+{
+	width:29%;
+	padding:1%;
+	margin-left:1%;
+	text-align:center;
+	font-family:Roboto Light;
+	float:left;
+}
+.third-column
+{
+	width:25%;
+}
+.three-columns h2
+{
+	margin-top:-2%;
+	font-size:24pt;
+}
+.second-column
+{
+	margin-top:-2%;
+}
+.columns-image
+{
+	width:100%;
+}
+.light-green
+{
+	color:#69b0ae;
+}
+.dark-green
+{
+	color:#006c6e;
+}
+.first-half,.second-half
+{
+	width:50%;
+	float:left;
+	text-align:left;
+	color:#006c6e;
+}
+.three-columns .column-btn
+{
+	width:50%;
+}
+.third-column .column-btn
+{
+	width:60%;
+}
+.first-half .column-btn,.second-half .column-btn
+{
+	width:100%;
+}
+.first-half
+{
+	text-align:center;
+}
+.third-column
+{
+	margin-top:3.8%;
+}
+.connect-us
+{
+	width:100%;
+	float:left;
+	background:#C6E5F2;
+}
+.no-border
+{
+	border:0px solid black;
+}
+.connect
+{
+	font-family:Arial;
+	font-size:28pt;
+}
+.adjust-arrow
+{
+	margin-top:-3%;
+}
+.signup-data
+{
+	font-family:arial;
+	font-size:22pt;
+	color:#006c6e;
+}
+.connect-input
+{
+	width:25%;
+	float:left;
+	font-size:22px;
+	padding:1%;
+	background:white;
+	border:1px solid white;
+	margin-left:6.5%;
+}
+.landing-banner-heading
+{
+	position:absolute;
+	top:20%;
+	font-size:62pt;
+	color:#006c6e;
+	line-height:65pt;
+	font-family:Roboto Regular;
+	left:8.5%;
+}
+.sub-header
+{
+	color:#69b0ae;
+	font-family:Roboto Light;
+}
+.landing-banner-data
+{
+	position:absolute;
+	top:55%;
+	left:8.5%;
+	font-family:Arial Regular;
+	font-size:17pt;
+	line-height:32pt;
+	color:#006c6e;
+	width:80%;
+}
+.join-us-btn
+{
+	background:#d40250;
+	border:1px solid #d40250;
+	padding:2%;
+	color:white;
+	font-family:Arial;
+	padding-left:3%;
+	margin-top:2%;
+	padding-right:3%;
+}
+.landing-logo
+{
+	position:absolute;top:3%;left:8.5%;
+}

@@ -12,8 +12,8 @@
 	</div>
 </div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
 
-<div class="dez-col-100 no-shadow">
-	<h1 class="padding-left-10 device-center">Articles<br><span class="text-light-green">Featured in </span>general interest</h1>
+<div class="dez-col-100 no-shadow font-arial">
+	<h1 class="padding-left-10 device-center">Articles<br><span class="text-light-green"><h5>Featured in </span>general interest</h5></h1>
 	<div class="dez-col-25 padding-left-10 no-shadow">
 		
 			<center><img src="content/news_image_1.jpg" alt="fast resuts" class="project-image-large" /></center>

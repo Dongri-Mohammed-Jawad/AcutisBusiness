@@ -14,12 +14,12 @@
 </div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
 
 <div class="dez-col-100 no-shadow">
-	<h1 class="text-dark-green padding-left-10 device-center">Our Partnership with Shatterproof</h1>
-	<div class="dez-col-40 no-shadow">
-		<center><img src="content/acu_citizen_icon_paragraph_1.jpg" alt="drug testing sports drug testing lab" class="project-image-small padding-left-20" /></center>
+	<h1 class="text-dark-green padding-left-10 device-center font-arial"><span class="text-light-green">Our Partnership with</span> Shatterproof</h1>
+	<div class="dez-col-35 no-shadow padding-top-1">
+		<center><img src="content/acu_citizen_icon_paragraph_1.jpg" alt="drug testing sports drug testing lab" class="project-image-vnormal padding-left-20 float-right" /></center>
 	</div>
 	<div class="dez-col-50 padding-3 device-center no-shadow">
-		<p>
+		<p class="text-light-black font-19">
 			Shatterproof is a nonprofit organization dedicated to ending the punishing impact of addiction on families across America. This organization works with parents to prevent addiction and also to help them find effective treatments.<br><br>
 			Shatterproof provides a community of support for families, while advocating for state and federal policy changes, it works to end the stigma and shame associated with addiction.
 		</p>
@@ -27,17 +27,17 @@
 </div><!-- This is the end of the OUR PARTNERSHIP WITH SHATTERPROOF. -->
 
 <div class="dez-col-100 no-shadow">
-	<div class="dez-col-50 padding-3 device-center no-shadow">
-		<p class="padding-left-10">
+	<div class="dez-col-55 padding-3 device-center no-shadow">
+		<p class="padding-left-25 text-light-black font-19">
 			<span class="special-text no-border">As Acu-Citizens we stand with those who are activists for good.</span>
 			<br><br>
 			We support Shatterproof in their efforts to create a stronger, happier world.
 			<br><br>
-			Visit Shatterproof.com directly to learn more about their program to Rise Up Against Addiction at <span class="special-text">Shatterproof.org .</span>
+			Visit Shatterproof.com directly to learn more about their program to Rise Up Against Addiction at <span class="special-text">Shatterproof.org</span>
 		</p>
 	</div>
-	<div class="dez-col-40 padding-3 no-shadow">
-		<center><img src="content/acu_citizen_shatter_proof_logo.jpg" alt="drug testing in sports toxicology lab" class="project-image-small padding-left-20" /></center>
+	<div class="dez-col-25 padding-3 no-shadow">
+		<center><img src="content/acu_citizen_shatter_proof_logo.jpg" alt="drug testing in sports toxicology lab" class="project-image-vlarge float-left" /></center>
 	</div>
 </div><!-- This is the end of the activist for good. -->
 

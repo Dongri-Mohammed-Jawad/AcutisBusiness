@@ -34,7 +34,7 @@
 					<option value="About-us.php">About Us</option>
 					<option value="Testing.php">Testing</option>
 					<option value="QuickReferrence.php">Quick Reference</option>
-					<option value="QuickReferrence.php">Our Services</option>
+					<option value="Order-Supply.php.php">Our Services</option>
 					<option value="Client.php">Client Support</option>
 					<option value="News-Articles.php">News & Articles</option>
 					<option value="Acu-Citizen.php">Acu-Citizen</option>

@@ -74,7 +74,7 @@ return false;
 	       		<input name="date"  id="datepicker"    type="date"   placeholder="DATE*"   required autofocus>
 	        </div>
 
-			<input type="submit" name="join" value="ORDER" class="join-btn"  onclick="validation()"/>
+			<input type="submit" name="join" value="ORDER" class="join-btn mobile-width-full mobile-font-4"  onclick="validation()"/>
 			<div id="msg2" class="message"></div>
 		</form>
 		

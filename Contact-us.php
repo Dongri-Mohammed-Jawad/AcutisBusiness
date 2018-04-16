@@ -58,7 +58,7 @@ return false;
 	</div>
 </div><!-- Well, this is the end of the Banner of the Project Ver2.0 -->
 
-<div class="dez-col-100 no-shadow">
+<div class="dez-col-100 no-shadow padding-top-3">
 	<h1 class="padding-left-10 device-center text-light-green">For General & Billing Inquiries</h1>
 	<h1 class="padding-left-10 device-center">
 	<span class="text-dark-green">Call Our Main Line 1-844-522-8847</span>
@@ -66,25 +66,25 @@ return false;
 </div><!-- this is the end of the GENERAL & BILLING INQUIRy. -->
 
 <div class="dez-col-100 no-shadow">
-	<div class="dez-col-35 padding-left-15 padding-right-15 no-shadow">
-		<p class="font-22 device-center">
-			If you have any questions or comments, please fill out the form, submit, and we will respond promptly.
+	<div class="dez-col-35 padding-left-15 padding-right-15 padding-top-4 no-shadow">
+		<p class="font-22 device-center mobile-font-4 text-light-green line-height-normal">
+			If you have any questions or comments,<br> please fill out the form, submit,<br> and we will respond promptly.
 		</p>
 	</div>
 	<div class="dez-col-30 no-shadow">
-		<center><img src="content/contact_icon-1.jpg" alt="Senior Scientists " class="project-image-small" /></center>
+		<center><img src="content/contact_icon-1.jpg" alt="Senior Scientists " class="project-image-normal float-left" /></center>
 	</div>
 </div><!-- This is the end of the Question and answer content with image on the right side. -->
 
 <center>
  <form name="contact" id="f1" action="ContactUsSend.php"  method="post" >
  
-	<input type=""    name="FirstName" required placeholder="First Name*" class="project-input font-20 padding-1 margin-top-1"><br>
-	<input type=""    name="LastName" required placeholder="Last Name*" class="project-input font-20 padding-1 margin-top-1"><br>
-	<input type=""    name="PracticeName" required placeholder="Practice Name*" class="project-input font-20 padding-1 margin-top-1"><br>
-	<input type="email" name="Email" required placeholder="Email*" class="project-input font-20 padding-1 margin-top-1"><br>
-	<input type="tel" pattern="^\+(?:[0-9]●?){6,14}[0-9]$"  name="Phone" required placeholder="Phone" class="project-input font-20 padding-1 margin-top-1"><br>
-	<textarea placeholder="Your Message Here.."  name="Message" class="project-textarea text-light-green margin-top-1 font-22 padding-1" required></textarea><br>
+	<input type=""    name="FirstName" required placeholder="First Name*" class="project-input font-20 padding-1 margin-top-3"><br>
+	<input type=""    name="LastName" required placeholder="Last Name*" class="project-input font-20 padding-1 margin-top-3"><br>
+	<input type=""    name="PracticeName" required placeholder="Practice Name*" class="project-input font-20 padding-1 margin-top-3"><br>
+	<input type="email" name="Email" required placeholder="Email*" class="project-input font-20 padding-1 margin-top-3"><br>
+	<input type="tel" pattern="^\+(?:[0-9]●?){6,14}[0-9]$"  name="Phone" required placeholder="Phone" class="project-input font-20 padding-1 margin-top-3"><br>
+	<textarea placeholder="Your Message Here.."  name="Message" class="project-textarea text-light-green margin-top-3 font-22 padding-1" required></textarea><br>
 	<input type="submit" value="  Send Your Message" onclick="validation()" class="join-btn margin-top-5 "/> 
   </form>
    </center>
